@@ -2,7 +2,7 @@
 title: biography + résumé
 ---
 
-[home](https://raharules.github.io/)&nbsp;&nbsp;&nbsp; [biography + résumé](https://raharules.github.io/raharules.github.io/about.html)&nbsp;&nbsp;&nbsp; [media](https://raharules.github.io/raharules.github.io/media.html)&nbsp;&nbsp;&nbsp; [schedule](https://raharules.github.io/raharules.github.io/schedule.html)&nbsp;&nbsp;&nbsp; [contact](https://raharules.github.io/raharules.github.io/contact.html)
+[home](https://raharules.github.io/)&nbsp;&nbsp;&nbsp;&nbsp; [biography + résumé](https://raharules.github.io/raharules.github.io/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [media](https://raharules.github.io/raharules.github.io/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [schedule](https://raharules.github.io/raharules.github.io/schedule.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](https://raharules.github.io/raharules.github.io/contact.html)
 
 Based in the Washington Metropolitan area, **Raha Mirzadegan** is a skilled young vocalist pursuing her Master’s Degree as a member of the **Maryland Opera Studio** this fall. She particularly enjoys the music of the **Early and Baroque periods**, but also holds a special place for German Lieder and French mélodie. She has sung as a chorister and soloist with the award-winning **Chamber Singers** of the **University of Maryland**, under the direction of Dr. Edward Maclary. As a current member of the Chamber Singers, she frequently collaborates with the **National and Baltimore Symphony Orchestras**, in venues such as the **Kennedy Center**, **Meyerhoff Symphony Hall**, and the **Music Center at Strathmore**. Furthermore, she is the founder and director of the **Maryland Monteverdi Society** – a group of eight vocalists dedicated to singing the music of the Renaissance.
 
