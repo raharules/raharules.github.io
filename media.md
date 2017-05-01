@@ -13,7 +13,7 @@ title: media
 
 _Come all ye songsters_, _If music be the food of love v. III_, _Sweeter than roses_
 
-Raha Mirzadegan, soprano <enter>
+Raha Mirzadegan, soprano <br />
 Steven Seigart, harpsichord
 
 <iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
@@ -22,8 +22,8 @@ Steven Seigart, harpsichord
 
 _Lascia ch'io pianga_
 
-Raha Mirzadegan, soprano <enter>
-Steven Seigart, harpsichord <enter>
-Anto Meliksetian, violin I <enter>
-Ava Shadmani, violin II <enter>
+Raha Mirzadegan, soprano <br />
+Steven Seigart, harpsichord <br />
+Anto Meliksetian, violin I <br />
+Ava Shadmani, violin II <br />
 Frances Borowsky, cello
