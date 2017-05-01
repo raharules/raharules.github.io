@@ -10,8 +10,7 @@ For booking or other queries, feel free to email me at the below address!
 ## Raha.Mirzadegan@gmail.com
 
 Raha is currently available for hire for services including: <br />
-<ul> Vocals for weddings, funerals, and special events. <br />
-<ul> Voice or piano lessons.
-</ul> 
+Vocals for weddings, funerals, and special events. <br />
+Voice or piano lessons.
 
 ![profesh](https://raharules.github.io/004_Raha-(ZF-6489-43094-1-001).jpg)
