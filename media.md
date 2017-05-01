@@ -11,7 +11,7 @@ title: media
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" ![Still](https://raharules.github.io/Purcell_Still.jpg)
+<iframe width="560" height="315" ![Still](https://raharules.github.io/Purcell_Still.jpg) frameborder="0" allowfullscreen></iframe>
 
 ![Still](https://raharules.github.io/Purcell_Still.jpg)
 
