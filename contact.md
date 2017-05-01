@@ -11,6 +11,6 @@ For booking or other queries, feel free to email me at the below address!
 
 Raha is currently available for hire for services including: <br />
 Vocals for weddings, funerals, and special events. <br />
-Voice or piano lessons.
+Voice & piano lessons.
 
 ![profesh](https://raharules.github.io/004_Raha-(ZF-6489-43094-1-001).jpg)
