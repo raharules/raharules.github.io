@@ -8,8 +8,10 @@ title: media
 
 [Purcell Set](https://www.youtube.com/watch?v=PDFi6aGppfI)
 
-"Come all ye songsters" 
-"If music be the food of love v. III" 
+"Come all ye songsters"
+
+"If music be the food of love v. III"
+
 "Sweeter than roses" - Henry Purcell
 
 [![Handel Piece](https://img.youtube.com/watch?v=Zp3nSAJr_jA.jpg)](https://www.youtube.com/watch?v=Zp3nSAJr_jA)
