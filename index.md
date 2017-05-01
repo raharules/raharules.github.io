@@ -1,6 +1,6 @@
 ## Raha Mirzadegan, soprano
 
-raharules.github.io/Raha_Soft_Headshot.jpg
+![Headshot](/images/Raha_Soft_Headshot.png)
 
 [home](https://raharules.github.io/)
 
