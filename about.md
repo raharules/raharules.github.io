@@ -1,4 +1,3 @@
-## Raha Mirzadegan, soprano
 ---
 title: biography + résumé
 ---
