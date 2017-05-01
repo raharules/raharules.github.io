@@ -8,15 +8,3 @@ She has been seen, as both pianist and vocalist, premiering pieces in the **New 
 On February 14th, 2017, the **Maryland Monteverdi Society** had their debut performance. For Valentine’s Day, Raha programmed a set of Renaissance love songs for an afternoon performance entitled “Songs of Love & Devotion,” in which the ensemble sang for their colleagues, faculty, and passersby in the atrium of the **Clarice Smith Performing Arts Center**. In honor of Monteverdi’s 450th Birthday on May 9th, the ensemble is set to perform a lecture-recital, entitled, ”Madrigals, Monody, Monteverdi,” to demonstrate the transformation of musical drama. She believes that by presenting these works, in accessible and succinct performances, people may become better acquainted with selections from the prolific music of the 14th – early 17th centuries.
 
 **Ms. Mirzadegan** is a vocal student of **Gran Wilson** at the University of Maryland, College Park. She aspires to continue making music to inspire others and foster a little beauty in the world.
-
-[home](raharules.github.io)
-
-[about](raharules.github.io/about.html)
-
-[photos/resumé](raharules.github.io/photos.html)
-
-[media](raharules.github.io/media.html)
-
-[schedule](raharules.github.io/schedule.html)
-
-[contact](raharules.github.io/contact.html)
