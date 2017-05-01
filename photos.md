@@ -6,10 +6,10 @@ title: photos
 
 [about](https://raharules.github.io/raharules.github.io/about.html)
 
-[photos/resumé](raharules.github.io/photos.html)
+[photos/resumé](https://raharules.github.io/raharules.github.io/photos.html)
 
-[media](raharules.github.io/media.html)
+[media](https://raharules.github.io/raharules.github.io/media.html)
 
-[schedule](raharules.github.io/schedule.html)
+[schedule](https://raharules.github.io/raharules.github.io/schedule.html)
 
-[contact](raharules.github.io/contact.html)
+[contact](https://raharules.github.io/raharules.github.io/contact.html)
