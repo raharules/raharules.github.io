@@ -2,7 +2,7 @@
 
 [home](https://raharules.github.io/)
 
-[about](raharules.github.io/about.html)
+[about](https://raharules.github.io/raharules.github.io/about.html)
 
 [photos/resumé](raharules.github.io/photos.html)
 
