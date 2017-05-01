@@ -7,7 +7,8 @@ title: schedule
 # Upcoming engagements
 
 ## Madrigals, Monody, Monteverdi
-### Maryland Monteverdi Society presents a lecture-recital
+
+**Maryland Monteverdi Society** presents a lecture-recital in celebration of Monteverdi's 450th Birthday.
 
 May 9th, 2017 @ 7pm - Friends of the Library Bookstore
 
@@ -17,6 +18,8 @@ Photo by Geoff Sheil / The Clarice
 
 # Past events
 ## Raha's Senior Recital
+
+This program has been curated by Gran Wilson and myself to showcase repertoire from the Early and Baroque periods, as well as Art Song and Opera.
 
 April 20th, 2017 @ 8pm - Gildenhorn Recital Hall
 
