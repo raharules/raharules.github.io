@@ -14,4 +14,4 @@ On February 14th, 2017, the **Maryland Monteverdi Society** had their debut perf
 
 **Ms. Mirzadegan** is a vocal student of **Gran Wilson** at the University of Maryland, College Park. She aspires to continue making music to inspire others and foster a little beauty in the world.
 
-[Résumé](https://raharules.github.io/Raha Mirzadegan Artistic Resume 2017.pdf)
+[Résumé](https://raharules.github.io/Raha_Mirzadegan_Artistic_Resume_2017.pdf)
