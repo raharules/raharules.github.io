@@ -8,6 +8,8 @@ title: media
 
 [Henry Purcell Set](https://www.youtube.com/watch?v=PDFi6aGppfI)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
+
 "Come all ye songsters"
 
 "If music be the food of love v. III"
