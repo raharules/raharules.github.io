@@ -6,14 +6,14 @@ title: media
 
 ![Still](https://raharules.github.io/Purcell_Still.jpg)
 
-[Purcell Set](https://www.youtube.com/watch?v=PDFi6aGppfI)
+[Henry Purcell Set](https://www.youtube.com/watch?v=PDFi6aGppfI)
 
 "Come all ye songsters"
 
 "If music be the food of love v. III"
 
-"Sweeter than roses" - Henry Purcell
+"Sweeter than roses"
 
-[![Handel Piece](https://img.youtube.com/watch?v=Zp3nSAJr_jA.jpg)](https://www.youtube.com/watch?v=Zp3nSAJr_jA)
+[Lascia ch'io pianga - G.F. Handel](https://www.youtube.com/watch?v=Zp3nSAJr_jA)
 
-Lascia ch'io pianga - G.F. Handel
+![headshot](https://raharules.github.io/Raha_Headshot_Web.jpg)
