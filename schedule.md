@@ -15,6 +15,6 @@ April 20th, 2017 @ 8pm - Gildenhorn Recital Hall
 ## Madrigals, Monody, Monteverdi
 ### Maryland Monteverdi Society presents a lecture-recital
 
-May 9th, 2017 @ 7pm- Friends of the Library Bookstore
+May 9th, 2017 @ 7pm - Friends of the Library Bookstore
 
 ![MMS](https://raharules.github.io/Maryland_Monteverdi_Society_2017.jpg)
