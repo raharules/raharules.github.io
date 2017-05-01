@@ -12,7 +12,9 @@ title: media
 ### Henry Purcell Set
 
 _Come all ye songsters_, _If music be the food of love v. III_, _Sweeter than roses_
+
 Raha Mirzadegan, soprano
+
 Steven Seigart, harpsichord
 
 <iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
@@ -20,8 +22,13 @@ Steven Seigart, harpsichord
 ### G.F. Handel
 
 _Lascia ch'io pianga_
+
 Raha Mirzadegan, soprano
+
 Steven Seigart, harpsichord
+
 Anto Meliksetian, violin I
+
 Ava Shadmani, violin II
+
 Frances Borowsky, cello
