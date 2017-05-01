@@ -27,6 +27,6 @@ April 20th, 2017 @ 8pm - Gildenhorn Recital Hall
 
 April 8th, 8pm - Memorial Chapel
 
-Raha will be singing the soprano solo in Howells: Requiem in an intimate performance with the UMD Chamber singers, under the direction of Matthew Halls. Also on the program: Duruflé: Quatre motets sur des thèmes grégoriens, Martin: Messe pour double Choeur.
+Raha will be singing the soprano solo in Howells: _Requiem_ in an intimate performance with the UMD Chamber singers, under the direction of **Matthew Halls**. Also on the program: Duruflé: _Quatre motets sur des thèmes grégoriens_, Martin: _Messe pour double Choeur_.
 
 ![music for a sacred space](https://raharules.github.io/Sacred_Space.jpg)
