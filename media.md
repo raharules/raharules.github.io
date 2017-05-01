@@ -7,11 +7,7 @@ title: media
 ## [Soundcloud](https://soundcloud.com/rahamirzadegan)
 
 
-<iframe width="277" height="220" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
-<iframe width="277" height="220" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
 
-![Still](https://raharules.github.io/Purcell_Still.jpg)
+<iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
 
-![headshot](https://raharules.github.io/Raha_Headshot_Web.jpg)
-
-![Still](https://raharules.github.io/Handel_Still.jpg)
