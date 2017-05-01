@@ -1,6 +1,6 @@
 ## Raha Mirzadegan, soprano
 
-[home](raharules.github.io)
+[home](raharules.github.io/index.md)
 
 [about](raharules.github.io/about.html)
 
