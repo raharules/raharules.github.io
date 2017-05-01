@@ -1,12 +1,12 @@
 ## Raha Mirzadegan, soprano
 
 ### Welcome
-[about](raharules.github.io/about.md)
+[about](raharules.github.io/about.html)
 
-[photos/resumé](raharules.github.io/photos.md)
+[photos/resumé](raharules.github.io/photos.html)
 
-[media](raharules.github.io/media.md)
+[media](raharules.github.io/media.html)
 
-[schedule](raharules.github.io/schedule.md)
+[schedule](raharules.github.io/schedule.html)
 
-[contact](raharules.github.io/contact.md)
+[contact](raharules.github.io/contact.html)
