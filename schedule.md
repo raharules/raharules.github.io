@@ -11,7 +11,7 @@ April 20th, 2017 - Gildenhorn Recital Hall
 [Senior Recital Program](https://raharules.github.io/Raha_Mirzadegan_Senior_Recital_Program.pdf)
 
 ## Madrigals, Monody, Monteverdi
-### Maryland Monteverdi Society
+### Maryland Monteverdi Society presents a lecture-recital
 
 May 9th, 2017 - Friends of the Library Bookstore
 
