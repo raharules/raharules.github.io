@@ -6,4 +6,4 @@ title: media
 
 [![Video image](raharules.github.io/Purcell_Still.png)](https://www.youtube.com/watch?v=PDFi6aGppfI)
 
-![Video image](https://img.youtube.com/watch?v=Zp3nSAJr_jA0.jpg)](https://www.youtube.com/watch?v=Zp3nSAJr_jA)
+[![Video image](https://img.youtube.com/watch?v=Zp3nSAJr_jA0.jpg)](https://www.youtube.com/watch?v=Zp3nSAJr_jA)
