@@ -9,7 +9,9 @@ For booking or other queries, feel free to email me at the below address!
 
 ### Raha.Mirzadegan@gmail.com
 
-Raha is currently available for hire in the DMV area for services including: <br />
+Raha is currently available for hire in the DMV area for services including:
+
+
 Vocals for weddings, funerals, and special events. <br />
 Studio recording sessions. <br />
 Voice & piano lessons. <br />
