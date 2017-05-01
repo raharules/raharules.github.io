@@ -1,5 +1,5 @@
 ---
-title:about
+title: about
 ---
 Based in the **Washington Metropolitan area**, **Raha Mirzadegan** is a skilled young vocalist pursuing her **Master’s Degree** as a member of the **Maryland Opera Studio** this fall. She enjoys singing repertoire spanning the **Early and Baroque periods** to newer works. She has sung as a chorister and soloist with the **award-winning Chamber Singers** of the **University of Maryland**, under the direction of **Dr. Edward Maclary**. As a current member of the Chamber Singers, she frequently collaborates with the **National and Baltimore Symphony Orchestras**, in venues such as the **Kennedy Center**, **Meyerhoff Symphony Hall**, and the **Music Center at Strathmore**. Furthermore, she is the **founder** and **director** of the **Maryland Monteverdi Society** – a group of eight vocalists dedicated to singing the music of the **Renaissance**.
 
