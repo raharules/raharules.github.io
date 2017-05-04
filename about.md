@@ -8,15 +8,22 @@ a { color: green; }
 
 ![headshot](https://raharules.github.io/Raha_Color_Web.jpg)
 
-Based in the Washington Metropolitan area, **Raha Mirzadegan** is a skilled young vocalist pursuing her Master’s Degree as a member of the **Maryland Opera Studio** this fall. She particularly enjoys the music of the **Early and Baroque periods**, but also holds a special place for German Lieder and French mélodie. She has sung as a chorister and soloist with the award-winning **Chamber Singers** of the **University of Maryland**, under the direction of Dr. Edward Maclary. As a current member of the Chamber Singers, she frequently collaborates with the **National and Baltimore Symphony Orchestras**, in venues such as the **Kennedy Center**, **Meyerhoff Symphony Hall**, and the **Music Center at Strathmore**. Furthermore, she is the founder and director of the **Maryland Monteverdi Society** – a group of eight vocalists dedicated to singing the music of the Renaissance.
-
-She has been seen, as both pianist and vocalist, premiering pieces in the **New Music at Maryland** concert series, as a featured soloist for the **Washington Metropolitan Gamer Symphony Orchestra**, as the soprano soloist in _Jesu, meine Freude_, BWV 227 by **J.S. Bach**, in excerpts from _A Midsummer Night’s Dream_ by **Mendelssohn** with the **University of Maryland Symphony Orchestra**, _Laudate Dominum_ from _Vesperae solennes de confessore_ by **Mozart**, **Howells**: _Requiem_ under the direction of **Matthew Halls**,  _Wer da glaubet und getauft wird_ BWV 27 by **J.S. Bach**, and as the representative of the undergraduate voice department in the 2017 **Honors Recital** at the University of Maryland.
-
-On February 14th, 2017, the **Maryland Monteverdi Society** had their debut performance. For Valentine’s Day, Raha programmed a set of Renaissance love songs for an afternoon performance entitled “Songs of Love & Devotion,” in which the ensemble sang for their colleagues, faculty, and passersby in the atrium of the **Clarice Smith Performing Arts Center**. In honor of Monteverdi’s 450th Birthday on May 9th, the ensemble is set to perform a lecture-recital, entitled, ”Madrigals, Monody, Monteverdi,” to demonstrate the transformation of musical drama. She believes that by presenting these works, in accessible and succinct performances, people may become better acquainted with selections from the prolific music of the 14th – early 17th centuries.
-
-**Ms. Mirzadegan** is a vocal student of **Gran Wilson** at the University of Maryland, College Park. She aspires to continue making music to inspire others and foster a little beauty in the world.
-
-
 <a href='https://raharules.github.io/Raha_Mirzadegan_Artistic_Resume_2017.pdf' target="_blank">Résumé</a>
+
+<p style="text-align:justify">
+Based in the Washington Metropolitan area, <b>Raha Mirzadegan</b> is a skilled young vocalist pursuing her Master’s Degree as a member of the <b>Maryland Opera Studio</b> this fall. She particularly enjoys the music of the <b>Early and Baroque periods</b>, but also holds a special place for German Lieder and French mélodie. She has sung as a chorister and soloist with the award-winning <b>Chamber Singers</b> of the <b>University of Maryland</b>, under the direction of Dr. Edward Maclary. As a current member of the Chamber Singers, she frequently collaborates with the <b>National and Baltimore Symphony Orchestras</b>, in venues such as the <b>Kennedy Center</b>, <b>Meyerhoff Symphony Hall</b>, and the <b>Music Center at Strathmore</b>. Furthermore, she is the founder and director of the <b>Maryland Monteverdi Society</b> – a group of eight vocalists dedicated to singing the music of the Renaissance.
+</p>
+
+<p style="text-align:justify">
+She has been seen, as both pianist and vocalist, premiering pieces in the <b>New Music at Maryland</b> concert series, as a featured soloist for the <b>Washington Metropolitan Gamer Symphony Orchestra</b>, as the soprano soloist in <i>Jesu, meine Freude</i>, BWV 227 by <b>J.S. Bach</b>, in excerpts from <i>A Midsummer Night’s Dream</i> by <b>Mendelssohn</b> with the <b>University of Maryland Symphony Orchestra</b>, <i>Laudate Dominum</i> from <i>Vesperae solennes de confessore</i> by <b>Mozart</b>, <b>Howells</b>: <i>Requiem</i> under the direction of <b>Matthew Halls</b>,  <i>Wer da glaubet und getauft wird</i> BWV 27 by <b>J.S. Bach</b>, and as the representative of the undergraduate voice department in the 2017 <b>Honors Recital</b> at the University of Maryland.
+</p>
+
+<p style="text-align:justify">
+On February 14th, 2017, the <b>Maryland Monteverdi Society</b> had their debut performance. For Valentine’s Day, Raha programmed a set of Renaissance love songs for an afternoon performance entitled “Songs of Love & Devotion,” in which the ensemble sang for their colleagues, faculty, and passersby in the atrium of the <b>Clarice Smith Performing Arts Center</b>. In honor of Monteverdi’s 450th Birthday on May 9th, the ensemble is set to perform a lecture-recital, entitled, ”Madrigals, Monody, Monteverdi,” to demonstrate the transformation of musical drama. She believes that by presenting these works, in accessible and succinct performances, people may become better acquainted with selections from the prolific music of the 14th – early 17th centuries.
+</p>
+
+<p style="text-align:justify">
+<b>Ms. Mirzadegan</b> is a vocal student of <b>Gran Wilson</b> at the University of Maryland, College Park. She aspires to continue making music to inspire others and foster a little beauty in the world.
+</p>
 
 Photo by Teresa Castracane
