@@ -10,7 +10,7 @@ a { color: green; }
 For booking or other queries, feel free to email me directly at the below address!</p>
 
 <p style="text-align:left">
-**Raha.Mirzadegan@gmail.com**</p>
+Raha.Mirzadegan@gmail.com</p>
 
 <p style="text-align:left">
 Raha is currently available for hire in the DMV area for the following:
