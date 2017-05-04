@@ -15,7 +15,7 @@ Based in the Washington Metropolitan area, <b>Raha Mirzadegan</b> is a skilled y
 </p>
 
 <p style="text-align:justify">
-She has been seen, as both pianist and vocalist, premiering pieces in the <b>New Music at Maryland</b> concert series, as a featured soloist for the <b>Washington Metropolitan Gamer Symphony Orchestra</b>, as the soprano soloist in <i>Jesu, meine Freude</i>, BWV 227 by <b>J.S. Bach</b>, in excerpts from <i>A Midsummer Night’s Dream</i> by <b>Mendelssohn</b> with the <b>University of Maryland Symphony Orchestra</b>, <i>Laudate Dominum</i> from <i>Vesperae solennes de confessore</i> by <b>Mozart</b>, <b>Howells</b>: <i>Requiem</i> under the direction of <b>Matthew Halls</b>,  <i>Wer da glaubet und getauft wird</i> BWV 27 by <b>J.S. Bach</b>, and as the representative of the undergraduate voice department in the 2017 <b>Honors Recital</b> at the University of Maryland.
+She has been seen, as both pianist and vocalist, premiering pieces in the <b>New Music at Maryland</b> concert series, as a featured soloist for the <b>Washington Metropolitan Gamer Symphony Orchestra</b>, as the soprano soloist in <i>Jesu, meine Freude</i>, BWV 227 by <b>J.S. Bach</b>, in excerpts from <i>A Midsummer Night’s Dream</i> by <b>Mendelssohn</b> with the <b>University of Maryland Symphony Orchestra</b>, <i>Laudate Dominum</i> from <i>Vesperae solennes de confessore</i> by <b>Mozart</b>, <b>Howells</b>: <i>Requiem</i> under the direction of <b>Matthew Halls</b>,  <i>Wer da gläubet und getauft wird</i> BWV 37 by <b>J.S. Bach</b>, and as the representative of the undergraduate voice department in the 2017 <b>Honors Recital</b> at the University of Maryland.
 </p>
 
 <p style="text-align:justify">
