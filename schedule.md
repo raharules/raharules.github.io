@@ -8,6 +8,15 @@ a { color: green; }
 
 ## Upcoming engagements
 
+**Bach Cantata Series**
+_Wer da glaubet und getaft wird_, BWV 37
+
+Conducted by Aaron Peisner, Raha will sing the soprano solo in _Herr Gott Vater_ alongside Evangeline Athanasiou.
+
+May 4th, 2017 @ 1:30 pm - Grand Pavilion, UMD
+
+![Bach](https://raharules.github.io/Bach Cantata.jpg)
+
 **Madrigals, Monody, Monteverdi**
 
 Maryland Monteverdi Society presents a lecture-recital in celebration of Monteverdi's 450th Birthday.
