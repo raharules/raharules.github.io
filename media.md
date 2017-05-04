@@ -4,7 +4,7 @@ title: media
 <style>
 a { color: green; } 
 </style>
-[home](https://raharules.github.io/)&nbsp;&nbsp;&nbsp;&nbsp; [biography + résumé](https://raharules.github.io/raharules.github.io/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [photos](https://raharules.github.io/raharules.github.io/photos.html)&nbsp;&nbsp;&nbsp; [media](https://raharules.github.io/raharules.github.io/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [schedule](https://raharules.github.io/raharules.github.io/schedule.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](https://raharules.github.io/raharules.github.io/contact.html)
+[home](/)&nbsp;&nbsp;&nbsp;&nbsp; [biography + résumé](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [photos](/photos.html)&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [schedule](/schedule.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
 ### Click here for additional audio recordings on [SoundCloud](https://soundcloud.com/rahamirzadegan)
 
