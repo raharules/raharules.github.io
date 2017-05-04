@@ -8,7 +8,7 @@ a { color: green; }
 
 ## Upcoming engagements
 
-**Bach Cantata Series**
+**Bach Cantata Series** <br />
 _Wer da glaubet und getaft wird_, BWV 37
 
 Conducted by Aaron Peisner, Raha will sing the soprano solo in _Herr Gott Vater_ alongside Evangeline Athanasiou.
