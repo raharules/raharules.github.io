@@ -6,15 +6,13 @@ a { color: green; }
 </style>
 [home](https://raharules.github.io/)&nbsp;&nbsp;&nbsp;&nbsp; [biography + résumé](https://raharules.github.io/raharules.github.io/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [photos](https://raharules.github.io/raharules.github.io/photos.html)&nbsp;&nbsp;&nbsp; [media](https://raharules.github.io/raharules.github.io/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [schedule](https://raharules.github.io/raharules.github.io/schedule.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](https://raharules.github.io/raharules.github.io/contact.html)
 
-<p style="text-align:left">
-For booking or other queries, feel free to email me directly at the below address!</p>
+For booking or other queries, feel free to email me directly at the below address!
 
-<p style="text-align:left">
-Raha.Mirzadegan@gmail.com</p>
+Raha.Mirzadegan@gmail.com
 
-<p style="text-align:left">
+
 Raha is currently available for hire in the DMV area for the following:
-</p>
+
 <p style="text-align:left">
 *Vocals for weddings, memorial services, and special events. <br />
 *Studio recording sessions. <br />
