@@ -15,7 +15,8 @@ Raha is currently available for hire in the DMV area for the following:
 <ul>
 <li>Vocals for weddings, memorial services, and special events. </li>
 <li>Studio recording sessions. </li>
-<li>Voice & piano lessons. </li></ul>
+<li>Voice & piano lessons. </li>
+</ul>
 </p>
 
 Willing to travel!
