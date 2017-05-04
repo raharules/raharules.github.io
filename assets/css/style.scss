@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.wrapper {
+	text-align:center;
+  width:860px;
+}
+
+#section {
+  width:500px;
+  margin:0 auto;
+  padding-bottom:50px;
+}
