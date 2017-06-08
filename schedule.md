@@ -8,6 +8,9 @@ a { color: green; }
 
 ## Upcoming engagements
 
+
+## Past events
+
 **Madrigals, Monody, Monteverdi**
 
 Maryland Monteverdi Society presents a lecture-recital in celebration of Monteverdi's 450th Birthday.
@@ -17,8 +20,6 @@ May 9th, 2017 @ 7pm - Friends of the Library Bookstore
 ![MMS](https://raharules.github.io/Maryland_Monteverdi_Society_2017.jpg)
 <br />
 Photo by Geoff Sheil / The Clarice
-
-## Past events
 
 **Bach Cantata Series** <br />
 _Wer da gläubet und getauft wird_, BWV 37
