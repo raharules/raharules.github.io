@@ -10,16 +10,5 @@ For booking or other queries, feel free to email me directly:
 
 Raha.Mirzadegan@gmail.com
 
-Raha is currently available for hire in the DMV area for the following:
-<p style="text-align:left">
-<ul>
-<li>Vocals for weddings, memorial services, and special events. </li>
-<li>Studio recording sessions. </li>
-<li>Voice & piano lessons. </li>
-</ul>
-</p>
-
-Willing to travel!
-
 ![profesh](https://raharules.github.io/004_Raha-(ZF-6489-43094-1-001).jpg) <br />
 Photo by Teresa Castracane
