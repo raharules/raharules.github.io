@@ -2,7 +2,7 @@
     color: green;
 }
 </style>
-[home](/)&nbsp;&nbsp;&nbsp;&nbsp; [biography + résumé](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [photos](/photos.html)&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [schedule](/schedule.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
+[home](/)&nbsp;&nbsp;&nbsp;&nbsp; [biography + résumé](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [photos](/photos.html)&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
 
  Hello, and welcome to my page!
