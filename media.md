@@ -12,9 +12,8 @@ a { color: green; }
 
 
 ### Video can be found below:
-<iframe width="420" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe>
-
 **Handel's Messiah**
+<iframe width="420" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe>
 
 _I know that my Redeemer liveth_
 
@@ -26,9 +25,8 @@ Johanna Novom, violin <br />
 René Schiffer, cello <br />
 Jeannette Sorrell, harpsichord/direction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v39UYC_Akzo" frameborder="0" allowfullscreen></iframe>
-
 **"O Jerusalem!"**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v39UYC_Akzo" frameborder="0" allowfullscreen></iframe>
 
 _Bani Adam, Dokhtare Boirahmadi (trad. Persian)_
 
@@ -39,18 +37,16 @@ Song:  Dokhtare Boirahmadi <br />
 Traditional Persian love song, arranged by Jeannette Sorrell and Raha Mirzadegan <br />
 Sung in Farsi
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
-
 **Henry Purcell Set**
+<iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
 
 _Come all ye songsters_, _If music be the food of love v. III_, _Sweeter than roses_
 
 Raha Mirzadegan, soprano <br />
 Steven Seigart, harpsichord
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
-
 **G.F. Handel**
+<iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
 
 _Lascia ch'io pianga_
 
