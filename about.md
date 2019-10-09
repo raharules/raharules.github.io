@@ -1,5 +1,5 @@
 ---
-title: biography + résumé
+title: about
 ---
 <style>
 a { color: green; } 
