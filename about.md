@@ -10,11 +10,12 @@ a { color: green; }
 
 
 <p style="text-align:justify">
-Persian-American soprano, Raha Mirzadegan, is a vocalist and multi-instrumentalist based in Brooklyn, New York. Her repertoire spans from singing the medieval chant of Hildegard von Bingen to premiering new works by living composers. Last fall, she was a member of the Maryland Opera Studio at the University of Maryland, where she also received a Bachelor of Music. During her time at the university, she studied with Gran Wilson, and was a chorister and soloist with the award-winning Chamber Singers, under the direction of Dr. Edward Maclary. Additionally, she sang in Master Classes with Dawn Upshaw and Matthew Halls.
+Persian-American soprano, Raha Mirzadegan is a vocalist and multi-instrumentalist based in New York. Her repertoire spans the medieval chant of Hildegard von Bingen to premiering new works by living composers. She was a member of the Maryland Opera Studio at the University of Maryland, where she received a Bachelor of Music. During her time at the university she studied with Gran Wilson, and was a chorister/soloist with the award-winning Chamber Singers, lead by Dr. Edward Maclary.
 </p>
 <p style="text-align:justify">
-This coming season, she will be performing as featured soloist/ensemble member with Apollo’s Fire, as well as returning to sing with the Chamber Singers in their annual Handel’s MESSIAH with the National Symphony Orchestra, under Nicholas McGegan. On Sunday mornings, she can be heard singing with the choir at the Church of the Ascension and St. Agnes in Washington, D.C. with organist and choirmaster, Owen Burdick.
-
+Raha is the founder and director of The Undercroft, a DC-based vocal ensemble dedicated to unearthing obscure works and premiering them for modern audiences. The group specializes in one-on-a-part renaissance polyphony.
 </p>
-
+<p style="text-align:justify">
+This season, Raha will be performing with groups such as Clarion music society, Bridge Ensemble, Chamber Singers, and The Undercroft in venues along the East Coast.
+</p>
 Photo by Teresa Castracane
