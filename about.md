@@ -18,4 +18,6 @@ Raha is the founder and director of The Undercroft, a DC-based vocal ensemble de
 <p style="text-align:justify">
 This season, Raha will be performing with groups such as Clarion music society, Bridge Ensemble, Chamber Singers, and The Undercroft in venues along the East Coast.
 </p>
+
+
 Photo by Teresa Castracane
