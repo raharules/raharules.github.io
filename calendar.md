@@ -93,7 +93,7 @@ a { color: green; }
 
 <br>
 <b>12/31 + 1/1</b>
-<p>Russian New Year’s Concerts</p>
+<p>"Russian New Year’s Concerts"</p>
 <p>Clarion</p>
 <br>
 
