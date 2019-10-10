@@ -16,8 +16,7 @@ a { color: green; }
 Artifice + Raha Mirzadegan<br>
 
 Music by Eric Pazdziora<br>
-New Music DC
-<style>
+New Music DC<br><style>
 a { color: green; } 
 </style>
 <a href="https://www.districtnewmusiccoalition.com/new-music-dc-19">More info</a>
@@ -33,8 +32,7 @@ Crossley Hawn, soprano<br>
 Janna Critz, alto<br>
 Jacob Perry Jr., tenor<br>
 Allan Laino, baritone<br>
-Gilbert Spencer, bass<br>
-<style>
+Gilbert Spencer, bass<br><style>
 a { color: green; } 
 </style>
 <a href="https://bridgevoices.org/concerts/the_crown.html">More info</a>
@@ -47,8 +45,7 @@ Clarion<br>
 
 The Clarion Choir<br>
 David Enlow, organ<br>
-Steven Fox, artistic director and conductor<br>
-<style>
+Steven Fox, artistic director and conductor<br><style>
 a { color: green; } 
 </style>
 <a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a>
@@ -64,8 +61,7 @@ Raha Mirzadegan, soprano<br>
 Jacob Perry, tenor<br>
 Apollo’s Singers<br>
 with the Dark Horse Consort (early brass ensemble)<br>
-Jeannette Sorrell, director<br>
-<style>
+Jeannette Sorrell, director<br><style>
 a { color: green; } 
 </style>
 <a href="https://apollosfire.org/event/echoes-of-venice/">More info</a>
@@ -78,8 +74,7 @@ The Undercroft<br>
 Smithsonian Libraries<br>
 
 Nisan Ak, composer<br>
-Raha Mirzadegan, director of The Undercroft<br>
-<style>
+Raha Mirzadegan, director of The Undercroft<br><style>
 a { color: green; } 
 </style>
 <a href="https://library.si.edu/event/singing-bindings">More info</a>
@@ -90,8 +85,7 @@ a { color: green; }
 National Collegiate Choral Organization conference<br>
 UMD Chamber Singers<br>
 
-Soloist in Stephen Paulus’s The Road Home<br>
-<style>
+Soloist in Stephen Paulus’s The Road Home<br><style>
 a { color: green; } 
 </style>
 <a href=”https://www.ncco-usa.org/conferences/”>More info</a>
@@ -105,8 +99,7 @@ Clarion<br>
 Mikki Sodergren, mezzo-soprano<br>
 John Ramseyer, tenor<br>
 The Clarion Choir<br>
-Steven Fox, conductor<br>
-<style>
+Steven Fox, conductor<br><style>
 a { color: green; } 
 </style>
 <a href="http://www.clarionsociety.org/events/2019-20-season/vespers.html">More info</a>
