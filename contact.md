@@ -8,4 +8,9 @@ a { color: green; }
 
 For booking or other queries, feel free to email me directly:
 
-Raha.Mirzadegan@gmail.com
+raha.mirzadegan@gmail.com
+
+![headshot](https://raharules.github.io/Raha_harvest.jpg)
+<br />
+Photo by Jeff Mertz
+<br />
