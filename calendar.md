@@ -35,7 +35,7 @@ a { color: green; }
 <p>The Clarion Choir<br>David Enlow, organ<br>Steven Fox, artistic director and conductor</p><style>
 a { color: green; } 
 </style>
-<p><br><a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a></p>
+<p><a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a></p>
 
 <br>
 <b>October 17-20</b>
