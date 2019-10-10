@@ -14,7 +14,7 @@ a { color: green; }
 <b>September 15</b>
 <p>“Nativity of the Isles"<br>Artifice + Raha Mirzadegan</p>
 
-<p>Music by Eric Pazdziora<br>New Music DC</p><br><style>
+<p>Music by Eric Pazdziora<br>New Music DC</p><style>
 a { color: green; } 
 </style><a href="https://www.districtnewmusiccoalition.com/new-music-dc-19">More info</a><br>
 
@@ -22,7 +22,7 @@ a { color: green; }
 <b>September 21 + 22</b>
 <p>“The Crown: Gems from the English Madrigal Tradition”<br>Bridge</p>
 
-<p>Raha Mirzadegan, soprano<br>Crossley Hawn, soprano<br>Janna Critz, alto<br>Jacob Perry Jr., tenor<br>Allan Laino, baritone<br>Gilbert Spencer, bass</p><br>style>
+<p>Raha Mirzadegan, soprano<br>Crossley Hawn, soprano<br>Janna Critz, alto<br>Jacob Perry Jr., tenor<br>Allan Laino, baritone<br>Gilbert Spencer, bass</p><style>
 a { color: green; } 
 </style><a href="https://bridgevoices.org/concerts/the_crown.html">More info</a><br>
 
@@ -30,7 +30,7 @@ a { color: green; }
 <b>September 26</b>
 <p>“The Motets of Bach & Brahms”<br>Clarion</p>
 
-<p>The Clarion Choir<br>David Enlow, organ<br>Steven Fox, artistic director and conductor</p><br><style>
+<p>The Clarion Choir<br>David Enlow, organ<br>Steven Fox, artistic director and conductor</p><style>
 a { color: green; } 
 </style><a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a><br>
 
@@ -38,7 +38,7 @@ a { color: green; }
 <b>October 17-20</b>
 <p>“Echoes of Venice”<br>Apollo’s Fire</p>
 
-<p>Amanda Powell, soprano<br>Raha Mirzadegan, soprano<br>Jacob Perry, tenor<br>Apollo’s Singers<br>with the Dark Horse Consort<br>Jeannette Sorrell, director</p><br><style>
+<p>Amanda Powell, soprano<br>Raha Mirzadegan, soprano<br>Jacob Perry, tenor<br>Apollo’s Singers<br>with the Dark Horse Consort<br>Jeannette Sorrell, director</p><style>
 a { color: green; } 
 </style><a href="https://apollosfire.org/event/echoes-of-venice/">More info</a><br>
 
@@ -46,7 +46,7 @@ a { color: green; }
 <b>November 5</b>
 <p>“Singing Bindings”<br>The Undercroft<br>Smithsonian Libraries</p>
 
-<p>Nisan Ak, composer<br>Raha Mirzadegan, director of The Undercroft</p><br><style>
+<p>Nisan Ak, composer<br>Raha Mirzadegan, director of The Undercroft</p><style>
 a { color: green; } 
 </style><a href="https://library.si.edu/event/singing-bindings">More info</a><br>
 
@@ -54,7 +54,7 @@ a { color: green; }
 <b>November 7</b>
 <p>National Collegiate Choral Organization conference<br>UMD Chamber Singers</p>
 
-<p>Soloist in Stephen Paulus’s The Road Home</p><br><style>
+<p>Soloist in Stephen Paulus’s The Road Home</p><style>
 a { color: green; } 
 </style><a href="https://www.ncco-usa.org/conferences/">More info</a><br>
 
@@ -62,6 +62,6 @@ a { color: green; }
 <b>12/31 + 1/1</b>
 <p>"Russian New Year’s Concerts"<br>Clarion</p>
 
-<p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><br><style>
+<p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><style>
 a { color: green; } 
 </style><a href="http://www.clarionsociety.org/events/2019-20-season/vespers.html">More info</a>
