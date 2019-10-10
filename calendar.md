@@ -58,8 +58,7 @@ a { color: green; }
 <br>
 <b>November 7</b>
 <p>National Collegiate Choral Organization conference<br>UMD Chamber Singers</p>
-
-
+<br>
 <p>Soloist in Stephen Paulus’s The Road Home</p><style>
 a { color: green; } 
 </style>
@@ -68,8 +67,7 @@ a { color: green; }
 <br>
 <b>12/31 + 1/1</b>
 <p>"Russian New Year’s Concerts"<br>Clarion</p>
-
-
+<br>
 <p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><style>
 a { color: green; } 
 </style>
