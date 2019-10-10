@@ -82,7 +82,7 @@ UMD Chamber Singers<br>
 Soloist in Stephen Paulus’s The Road Home<br><style>
 a { color: green; } 
 </style>
-<a href=”https://www.ncco-usa.org/conferences/”>More info</a>
+<a href="https://www.ncco-usa.org/conferences/">More info</a>
 
 <br>
 <b>12/31 + 1/1</b><br>
