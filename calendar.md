@@ -10,8 +10,7 @@ a { color: green; }
 <b>2019-2020 season</b>
 </font>
 <br>
-<b>September 15</b>
-
+<b>September 15</b><br>
 “Nativity of the Isles”<br>
 Artifice + Raha Mirzadegan<br>
 
@@ -22,8 +21,7 @@ a { color: green; }
 <a href="https://www.districtnewmusiccoalition.com/new-music-dc-19">More info</a>
 
 <br>
-<b>September 21 + 22</b>
-
+<b>September 21 + 22</b>br
 “The Crown: Gems from the English Madrigal Tradition”<br>
 Bridge<br>
 
@@ -38,8 +36,7 @@ a { color: green; }
 <a href="https://bridgevoices.org/concerts/the_crown.html">More info</a>
 
 <br>
-<b>September 26</b>
-
+<b>September 26</b><br>
 “The Motets of Bach & Brahms”<br>
 Clarion<br>
 
@@ -51,8 +48,7 @@ a { color: green; }
 <a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a>
 
 <br>
-<b>October 17-20</b>
-
+<b>October 17-20</b><br>
 “Echoes of Venice”<br>
 Apollo’s Fire<br>
 
@@ -67,8 +63,7 @@ a { color: green; }
 <a href="https://apollosfire.org/event/echoes-of-venice/">More info</a>
 
 <br>
-<b>November 5</b>
-
+<b>November 5</b><br>
 “Singing Bindings”<br>
 The Undercroft<br>
 Smithsonian Libraries<br>
@@ -80,8 +75,7 @@ a { color: green; }
 <a href="https://library.si.edu/event/singing-bindings">More info</a>
 
 <br>
-<b>November 7</b>
-
+<b>November 7</b><br>
 National Collegiate Choral Organization conference<br>
 UMD Chamber Singers<br>
 
@@ -91,8 +85,7 @@ a { color: green; }
 <a href=”https://www.ncco-usa.org/conferences/”>More info</a>
 
 <br>
-<b>12/31 + 1/1</b>
-
+<b>12/31 + 1/1</b><br>
 Russian New Year’s Concerts<br>
 Clarion<br>
 
