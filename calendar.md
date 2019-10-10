@@ -41,7 +41,7 @@ a { color: green; }
 <br>
 <b>September 26</b>
 <br>“The Motets of Bach & Brahms”
-<br>Clarion<br>
+<br>Clarion
 <br>
 
 The Clarion Choir
@@ -82,8 +82,8 @@ a { color: green; }
 
 <br>
 <b>November 7</b>
-<br>National Collegiate Choral Organization conference<br>
-<br>UMD Chamber Singers<br>
+<br>National Collegiate Choral Organization conference
+<br>UMD Chamber Singers
 <br>
 
 <br>Soloist in Stephen Paulus’s The Road Home<style>
