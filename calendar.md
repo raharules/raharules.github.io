@@ -22,7 +22,7 @@ a { color: green; }
 <br>
 <b>September 21 + 22</b>
 <p>“The Crown: Gems from the English Madrigal Tradition”<br>Bridge</p>
-<br>
+
 <p>Raha Mirzadegan, soprano<br>Crossley Hawn, soprano<br>Janna Critz, alto<br>Jacob Perry Jr., tenor<br>Allan Laino, baritone<br>Gilbert Spencer, bass</p><style>
 a { color: green; } 
 </style>
@@ -31,7 +31,7 @@ a { color: green; }
 <br>
 <b>September 26</b>
 <p>“The Motets of Bach & Brahms”<br>Clarion</p>
-<br> 
+
 <p>The Clarion Choir<br>David Enlow, organ<br>Steven Fox, artistic director and conductor</p><style>
 a { color: green; } 
 </style>
@@ -40,7 +40,7 @@ a { color: green; }
 <br>
 <b>October 17-20</b>
 <p>“Echoes of Venice”<br>Apollo’s Fire</p>
-<br>
+
 <p>Amanda Powell, soprano<br>Raha Mirzadegan, soprano<br>Jacob Perry, tenor<br>Apollo’s Singers<br>with the Dark Horse Consort<br>Jeannette Sorrell, director</p><style>
 a { color: green; } 
 </style>
@@ -49,7 +49,7 @@ a { color: green; }
 <br>
 <b>November 5</b>
 <p>“Singing Bindings”<br>The Undercroft<br>Smithsonian Libraries</p>
-<br>
+
 <p>Nisan Ak, composer<br>Raha Mirzadegan, director of The Undercroft</p><style>
 a { color: green; } 
 </style>
@@ -58,7 +58,7 @@ a { color: green; }
 <br>
 <b>November 7</b>
 <p>National Collegiate Choral Organization conference<br>UMD Chamber Singers</p>
-<br>
+
 <p>Soloist in Stephen Paulus’s The Road Home</p><style>
 a { color: green; } 
 </style>
@@ -67,7 +67,7 @@ a { color: green; }
 <br>
 <b>12/31 + 1/1</b>
 <p>"Russian New Year’s Concerts"<br>Clarion</p>
-<br>
+
 <p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><style>
 a { color: green; } 
 </style>
