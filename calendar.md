@@ -46,7 +46,7 @@ a { color: green; }
 <b>November 5</b>
 <p>“Singing Bindings”<br>The Undercroft<br>Smithsonian Libraries</p>
 
-<p>Nisan Ak, composer<br>Raha Mirzadegan, director of The Undercroft</p><style>
+<p>Nisan Ak, composer<br>Raha Mirzadegan, director </p><style>
 a { color: green; } 
 </style><a href="https://library.si.edu/event/singing-bindings">More info</a><br>
 
@@ -57,6 +57,14 @@ a { color: green; }
 <p>Soloist in Stephen Paulus’s The Road Home</p><style>
 a { color: green; } 
 </style><a href="https://www.ncco-usa.org/conferences/">More info</a><br>
+
+<br>
+<b>December 11-13</b>
+<p>Bach's Christmas Oratorio<br>Apollo's Fire</p>
+
+<p>Julian Wachner, guest conductor<br>Molly Netter, soprano<br>Daniel Moody, countertenor<br>Steven Soph, tenor<br>Jesse Blumberg, baritone<br>Apollo’s Singers</p><style>
+a { color: green; } 
+</style><a href="https://apollosfire.org/event/bachs-christmas-oratorio/“>More info</a><br>
 
 <br>
 <b>12/31 + 1/1</b>
