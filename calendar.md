@@ -12,7 +12,8 @@ a { color: green; }
 
 <br>
 <b>September 15</b>
-<p>“Nativity of the Isles"<br>Artifice + Raha Mirzadegan</p><br>
+<p>“Nativity of the Isles"<br>Artifice + Raha Mirzadegan</p>
+
 <p>Music by Eric Pazdziora<br>New Music DC</p><style>
 a { color: green; } 
 </style>
