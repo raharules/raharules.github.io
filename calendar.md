@@ -64,4 +64,12 @@ a { color: green; }
 
 <p>Julian Wachner, guest conductor<br>Molly Netter, soprano<br>Daniel Moody, countertenor<br>Steven Soph, tenor<br>Jesse Blumberg, baritone<br>Apollo’s Singers</p><style>
 a { color: green; } 
-</style><a href="https://apollosfire.org/event/bachs-christmas-oratorio/“>More info</a><br>
+</style><a href="https://apollosfire.org/event/bachs-christmas-oratorio/">More info</a><br>
+
+<br>
+<b>12/31 + 1/1</b>
+<p>"Russian New Year’s Concerts"<br>Clarion</p>
+
+<p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><style>
+a { color: green; } 
+</style><a href="http://www.clarionsociety.org/events/2019-20-season/vespers.html">More info</a>
