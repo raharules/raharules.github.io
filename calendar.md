@@ -16,7 +16,7 @@ a { color: green; }
 
 <p>Music by Eric Pazdziora<br>New Music DC</p><style>
 a { color: green; } 
-</style><p><a href="https://www.districtnewmusiccoalition.com/new-music-dc-19">More info</a></p>
+</style><br><a href="https://www.districtnewmusiccoalition.com/new-music-dc-19">More info</a>
 
 <br>
 <b>September 21 + 22</b>
@@ -24,7 +24,7 @@ a { color: green; }
 
 <p>Raha Mirzadegan, soprano<br>Crossley Hawn, soprano<br>Janna Critz, alto<br>Jacob Perry Jr., tenor<br>Allan Laino, baritone<br>Gilbert Spencer, bass</p><style>
 a { color: green; } 
-</style><p><a href="https://bridgevoices.org/concerts/the_crown.html">More info</a></p>
+</style><br><a href="https://bridgevoices.org/concerts/the_crown.html">More info</a>
 
 <br>
 <b>September 26</b>
@@ -32,7 +32,7 @@ a { color: green; }
 
 <p>The Clarion Choir<br>David Enlow, organ<br>Steven Fox, artistic director and conductor</p><style>
 a { color: green; } 
-</style><p><a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a></p>
+</style><br><a href="http://www.clarionsociety.org/events/2019-20-season/motets.html">More info</a>
 
 <br>
 <b>October 17-20</b>
@@ -40,7 +40,7 @@ a { color: green; }
 
 <p>Amanda Powell, soprano<br>Raha Mirzadegan, soprano<br>Jacob Perry, tenor<br>Apollo’s Singers<br>with the Dark Horse Consort<br>Jeannette Sorrell, director</p><style>
 a { color: green; } 
-</style><p><a href="https://apollosfire.org/event/echoes-of-venice/">More info</a></p>
+</style><br><a href="https://apollosfire.org/event/echoes-of-venice/">More info</a>
 
 <br>
 <b>November 5</b>
@@ -48,7 +48,7 @@ a { color: green; }
 
 <p>Nisan Ak, composer<br>Raha Mirzadegan, director of The Undercroft</p><style>
 a { color: green; } 
-</style><p><a href="https://library.si.edu/event/singing-bindings">More info</a></p>
+</style><br><a href="https://library.si.edu/event/singing-bindings">More info</a>
 
 <br>
 <b>November 7</b>
@@ -56,7 +56,7 @@ a { color: green; }
 
 <p>Soloist in Stephen Paulus’s The Road Home</p><style>
 a { color: green; } 
-</style><p><a href="https://www.ncco-usa.org/conferences/">More info</a></p>
+</style><br><a href="https://www.ncco-usa.org/conferences/">More info</a>
 
 <br>
 <b>12/31 + 1/1</b>
@@ -64,4 +64,4 @@ a { color: green; }
 
 <p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><style>
 a { color: green; } 
-</style><p><a href="http://www.clarionsociety.org/events/2019-20-season/vespers.html">More info</a></p>
+</style><br><a href="http://www.clarionsociety.org/events/2019-20-season/vespers.html">More info</a>
