@@ -16,7 +16,7 @@ Persian-American soprano, Raha Mirzadegan is a vocalist and multi-instrumentalis
 Raha is the founder and director of The Undercroft, a DC-based vocal ensemble dedicated to unearthing obscure works and premiering them for modern audiences. The group specializes in one-on-a-part renaissance polyphony.
 </p>
 <p style="text-align:justify">
-This season, Raha will be performing with groups such as Clarion music society, Bridge Ensemble, Chamber Singers, and The Undercroft in venues along the East Coast.
+This season, Raha will be performing with groups such as Clarion Music Society, Apollo's Fire, Bridge, Chamber Singers, and The Undercroft in venues along the East Coast, and in the Midwest.
 </p>
 
 
