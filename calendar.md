@@ -44,7 +44,7 @@ a { color: green; }
 
 <br>
 <b>November 5</b>
-<p>“Singing Bindings”<br>The Undercroft<br>Smithsonian Libraries</p>
+<p>“Singing Bindings”<br>The Uηdercroft<br>Smithsonian Libraries</p>
 
 <p>Raha Mirzadegan, soprano + director<br>Dan O'Neill, countertenor<br>Noah Calderon, tenor<br>Nicholas Levy, tenor<br>Allan Laino, baritone<br>Owen Burdick, choirmaster</p><style>
 a { color: green; } 
