@@ -57,3 +57,12 @@ a { color: green; }
 <p>Solo in Stephen Paulus’s The Road Home</p><style>
 a { color: green; } 
 </style><a href="https://www.ncco-usa.org/conferences/">More info</a><br>
+
+<br>
+<b>12/31 + 1/1</b>
+<p>"Russian New Year’s Concerts"<br>Clarion</p>
+
+<p>Mikki Sodergren, mezzo-soprano<br>John Ramseyer, tenor<br>The Clarion Choir<br>Steven Fox, conductor</p><style>
+a { color: green; } 
+</style><a href="http://www.clarionsociety.org/events/2019-20-season/vespers.html">More info</a>
+
