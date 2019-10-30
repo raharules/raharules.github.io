@@ -46,7 +46,7 @@ a { color: green; }
 <b>November 5</b>
 <p>“Singing Bindings”<br>The Undercroft<br>Smithsonian Libraries</p>
 
-<p>Raha Mirzadegan, director </p><style>
+<p>Raha Mirzadegan, director + soprano<br>Dan O'Neill, countertenor<br>Noah Calderon, tenor<br>Nicholas Levy, tenor<br>Allan Laino, baritone</p><style>
 a { color: green; } 
 </style><a href="https://library.si.edu/event/singing-bindings">More info</a><br>
 
