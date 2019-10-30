@@ -13,30 +13,6 @@ a { color: green; }
 
 
 ### Video can be found below:
-**Handel's Messiah**
-<iframe width="420" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe>
-
-_I know that my Redeemer liveth_
-
-Raha Mirzadegan, soprano <br />
-with APOLLO'S FIRE | The Cleveland Baroque Orchestra <br />
-Jeannette Sorrell, Artistic Director <br />
-
-Johanna Novom, violin <br />
-René Schiffer, cello <br />
-Jeannette Sorrell, harpsichord/direction
-
-**"O Jerusalem!"**
-<iframe width="420" height="236" src="https://www.youtube.com/embed/v39UYC_Akzo" frameborder="0" allowfullscreen></iframe>
-
-_Bani Adam, Dokhtare Boirahmadi (trad. Persian)_
-
-Poem:  Bani Adam (Children of Adam) <br />
-by Sa'adi, 13th c. Persian poet <br />
-
-Song:  Dokhtare Boirahmadi <br />
-Traditional Persian love song, arranged by JS and RM <br />
-Sung in Farsi
 
 **Henry Purcell Set**
 <iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
