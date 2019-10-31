@@ -18,11 +18,18 @@ a { color: green; }
 
 **Palestrina**
 <div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p>
-
-Dum compleréntur dies Pentecóstes
-
-The Uηdercroft
 </p>Posted by <a href="https://www.facebook.com/theundercroftmusic/">The Undercroft</a> on Friday, June 14, 2019</blockquote></div>
+
+_Dum compleréntur dies Pentecóstes_
+
+The Uηdercroft <br />
+Raha Mirzadegan, soprano <br />
+Timothy Parsons, countertenor <br />
+Dan O'Neill, countertenor <br />
+Nicholas Levy, tenor <br />
+Luke Link, tenor <br />
+Collin Power, baritone <br />
+John Mullan, baritone <br />
 
 **Henry Purcell Set**
 <iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
