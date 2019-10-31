@@ -17,7 +17,7 @@ a { color: green; }
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
 
 **Palestrina**
-<div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></div>
+<div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></blockquote></div>
   
 _Dum compleréntur dies Pentecóstes_
 
