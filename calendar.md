@@ -43,14 +43,6 @@ a { color: green; }
 </style><a href="https://apollosfire.org/event/echoes-of-venice/">More info</a><br>
 
 <br>
-<b>November 5</b>
-<p>“Singing Bindings”<br>The Uηdercroft<br>Smithsonian Libraries</p>
-
-<p>Raha Mirzadegan, soprano + director<br>Dan O'Neill, countertenor<br>Noah Calderon, tenor<br>Nicholas Levy, tenor<br>Allan Laino, baritone<br>Owen Burdick, choirmaster</p><style>
-a { color: green; } 
-</style><a href="https://library.si.edu/event/singing-bindings">More info</a><br>
-
-<br>
 <b>November 7</b>
 <p>National Collegiate Choral Organization conference<br>UMD Chamber Singers</p>
 
