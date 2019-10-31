@@ -10,8 +10,7 @@ a { color: green; }
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/320134405&color=%23211612&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-
+<br>
 
 ### Video can be found below:
 <div id="fb-root"></div>
@@ -19,7 +18,6 @@ a { color: green; }
 
 **Palestrina**
 <div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p>
-</p>Posted by <a href="https://www.facebook.com/theundercroftmusic/">The Undercroft</a> on Friday, June 14, 2019</blockquote></div>
 
 _Dum compleréntur dies Pentecóstes_
 
