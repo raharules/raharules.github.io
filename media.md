@@ -13,6 +13,16 @@ a { color: green; }
 
 
 ### Video can be found below:
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
+
+**Palestrina**
+<div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p>
+
+Dum compleréntur dies Pentecóstes
+
+The Uηdercroft
+</p>Posted by <a href="https://www.facebook.com/theundercroftmusic/">The Undercroft</a> on Friday, June 14, 2019</blockquote></div>
 
 **Henry Purcell Set**
 <iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
