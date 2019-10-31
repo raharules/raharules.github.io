@@ -10,13 +10,16 @@ a { color: green; }
 
 
 <p style="text-align:justify">
-Persian-American soprano, Raha Mirzadegan is a vocalist and multi-instrumentalist based in New York. Her repertoire spans the medieval chant of Hildegard von Bingen to premiering new works by living composers. She was a member of the Maryland Opera Studio at the University of Maryland, where she received a Bachelor of Music. During her time at the university she studied with Gran Wilson, and was a chorister/soloist with the award-winning Chamber Singers, led by Dr. Edward Maclary.
+Persian-American soprano Raha Mirzadegan is a vocalist and multi-instrumentalist based in New York and DC. A lover of sacred music and collaboration—her repertoire spans the medieval chant of Hildegard von Bingen to premiering new works by living composers.
 </p>
 <p style="text-align:justify">
-Raha is the founder and director of The Undercroft, a DC-based vocal ensemble dedicated to unearthing and restoring obscure works, and premiering them for modern audiences. The group specializes in one-on-a-part renaissance polyphony.
+Raha is the founder and director of The Uηdercroft, a DC-based vocal ensemble dedicated to unearthing and restoring unpublished works and premiering them for modern audiences. The group specializes in one-on-a-part renaissance polyphony.
 </p>
 <p style="text-align:justify">
-This season, Raha will perform with groups such as Clarion Music Society, Apollo's Fire, Bridge, Chamber Singers, Chantry, and The Undercroft in venues along the East Coast, and in the Midwest.
+This season, Raha will perform with groups such as Clarion Music Society, Apollo’s Fire, Bridge, Chamber Singers, Chantry, and The Undercroft, in venues along the East Coast and in the Midwest.
+</p>
+<p style="text-align:justify">
+She was a member of the Maryland Opera Studio at the University of Maryland, where she received a Bachelor of Music, under the guidance of Professor Gran Wilson. While at the university, Raha was a chorister and soloist with the award-winning Chamber Singers, led by Professor Edward Maclary. Now an alumna of the group, she continues to join them in their frequent collaborations with the National Symphony Orchestra, and the Baltimore Symphony Orchestra.
 </p>
 
 
