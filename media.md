@@ -15,8 +15,7 @@ a { color: green; }
 
 <div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></blockquote></div>
   
-Palestrina (1525-1594)
-
+Palestrina (1525-1594)<br />
 _Dum compleréntur dies Pentecóstes_
 
 The Uηdercroft <br />
@@ -31,8 +30,7 @@ John Mullan, baritone <br />
 
 <iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
 
-Henry Purcell Set
-
+Henry Purcell Set <br />
 _Come all ye songsters_, _If music be the food of love v. III_, _Sweeter than roses_
 
 Raha Mirzadegan, soprano <br />
@@ -40,8 +38,7 @@ Steven Seigart, harpsichord
 
 <iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
 
-G.F. Handel
-
+G.F. Handel<br />
 _Lascia ch'io pianga_
 
 Raha Mirzadegan, soprano <br />
