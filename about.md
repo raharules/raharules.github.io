@@ -19,7 +19,7 @@ Raha is the founder and director of The Uηdercroft, a DC-based vocal ensemble d
 This season, Raha will perform with groups such as Clarion Music Society, Apollo’s Fire, Bridge, Chamber Singers, Chantry, and The Uηdercroft, in venues along the East Coast and in the Midwest.
 </p>
 <p style="text-align:justify">
-An advocate for new music, Raha directed and performed the world premiere of "Nativity of the Isles" by Eric Pazdziora, with whom she is currently working on several additional projects. She has collaborated with such composers as Elliot Cole, and premiered the works of Owen Burdick, William Kenlon, Scott AuCoin, and Jacob Coppage-Gross. In addition, Raha is a singer-songwriter and composer herself.
+An advocate for new music, Raha directed and performed the world premiere of "Nativity of the Isles" by Eric Pazdziora, with whom she is currently working on several additional projects. She has worked with composer Elliot Cole, and premiered the works of Owen Burdick, William Kenlon, Scott AuCoin, and Jacob Coppage-Gross. In addition to these partnerships, Raha, herself, is a songwriter, arranger, poet, and composer.
 </p>
 <p style="text-align:justify">
 Raha was a member of the Maryland Opera Studio at the University of Maryland, where she received a Bachelor of Music, under the guidance of Professor Gran Wilson. While at the university, Raha was a chorister and soloist with the award-winning Chamber Singers, led by Professor Edward Maclary. Now an alumna of the group, she continues to join them in their frequent collaborations with the National Symphony Orchestra, and the Baltimore Symphony Orchestra.
