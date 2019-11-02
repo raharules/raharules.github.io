@@ -10,13 +10,13 @@ a { color: green; }
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/437005092&color=%23464646&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <br>
-
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
 
 <div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="420" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></blockquote></div>
   
 Palestrina (1525-1594)
+
 _Dum compleréntur dies Pentecóstes_
 
 The Uηdercroft <br />
@@ -32,6 +32,7 @@ John Mullan, baritone <br />
 <iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
 
 Henry Purcell Set
+
 _Come all ye songsters_, _If music be the food of love v. III_, _Sweeter than roses_
 
 Raha Mirzadegan, soprano <br />
@@ -40,6 +41,7 @@ Steven Seigart, harpsichord
 <iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
 
 G.F. Handel
+
 _Lascia ch'io pianga_
 
 Raha Mirzadegan, soprano <br />
