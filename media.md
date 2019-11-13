@@ -36,7 +36,7 @@ G.F. Handel<br />
 _I know that my redeemer liveth_
 
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/v39UYC_Akzo?controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/v39UYC_Akzo?controls=0" frameborder="0" allowfullscreen></iframe>
 
 _Bani Adam_ (Saadi)<br />
 _Dokhtare Boirahmadi_(traditional Persian)<br />
