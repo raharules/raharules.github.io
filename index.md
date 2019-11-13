@@ -9,7 +9,7 @@
 
 ![headshot](https://raharules.github.io/Raha_harvest.jpg)
 <br />
-Photo by Teresa Castracane
+Photo by Jeff Mertz
 <br />
 
 
