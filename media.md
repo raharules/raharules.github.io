@@ -30,7 +30,7 @@ Collin Power, baritone <br />
 John Mullan, baritone <br />
 
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe> 
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe> 
 
 G.F. Handel<br />
 _I know that my redeemer liveth_
@@ -42,13 +42,13 @@ _Bani Adam_ (Saadi)<br />
 _Dokhtare Boirahmadi_(traditional Persian)<br />
 
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
 
 Henry Purcell Set <br />
 _Come all ye songsters_, _If music be the food of love v. III_, _Sweeter than roses_
 
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
 
 G.F. Handel<br />
 _Lascia ch'io pianga_
