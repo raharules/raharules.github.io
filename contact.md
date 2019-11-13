@@ -10,7 +10,7 @@ For booking or other queries, feel free to email me directly:
 
 raha.mirzadegan@gmail.com
 
-![headshot](https://raharules.github.io/Raha_harvest.jpg)
+![art](https://raharules.github.io/dance of death.jpeg)
 <br />
 Photo by Jeff Mertz
 <br />
