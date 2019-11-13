@@ -7,7 +7,7 @@
 
  Hello, and welcome to my page!
 
-![Headshot](https://raharules.github.io/Raha_Soft_Headshot.jpg)
+![headshot](https://raharules.github.io/Raha_harvest.jpg)
 <br />
 Photo by Teresa Castracane
 <br />
