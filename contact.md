@@ -12,5 +12,3 @@ raha.mirzadegan@gmail.com
 
 ![art](https://raharules.github.io/dance of death.jpeg)
 <br />
-Photo by Jeff Mertz
-<br />
