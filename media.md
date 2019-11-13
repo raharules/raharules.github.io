@@ -15,7 +15,7 @@ a { color: green; }
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
 
-<div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="100%" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></blockquote></div>
+<div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="470" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></blockquote></div>
   
 Palestrina (1525-1594)<br />
 _Dum compleréntur dies Pentecóstes_
