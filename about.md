@@ -21,6 +21,3 @@ An advocate for new music, Raha was selected by composer Eric Pazdziora to direc
 <p style="text-align:justify">
 Raha was a member of the Maryland Opera Studio at the University of Maryland, where she received a Bachelor of Music, under the guidance of Professor Gran Wilson. While at the university, Raha was a chorister and soloist with the award-winning Chamber Singers, led by Professor Edward Maclary. Now an alumna of the group, she continues to join them in their frequent collaborations with the National Symphony Orchestra, and the Baltimore Symphony Orchestra.
 </p>
-
-
-Photo by Teresa Castracane
