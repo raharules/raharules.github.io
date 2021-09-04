@@ -6,6 +6,11 @@ a { color: green; }
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar.html)&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe> 
+
+G.F. Handel<br />
+_I know that my redeemer liveth_
+
 <iframe width="100%" height="440" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/913751419&color=%235a5558&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/437005092&color=%23464646&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -28,12 +33,6 @@ Nicholas Levy, tenor <br />
 Luke Link, tenor <br />
 Collin Power, baritone <br />
 John Mullan, baritone <br />
-
-
-<iframe width="100%" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe> 
-
-G.F. Handel<br />
-_I know that my redeemer liveth_
 
 
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/v39UYC_Akzo?controls=0" frameborder="0" allowfullscreen></iframe>
