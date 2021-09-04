@@ -25,7 +25,7 @@ _I know that my redeemer liveth_
 Palestrina (1525-1594)<br />
 _Dum compleréntur dies Pentecóstes_
 
-The Uηdercroft <br />
+The Undercroft <br />
 Raha Mirzadegan, soprano <br />
 Timothy Parsons, countertenor <br />
 Dan O'Neill, countertenor <br />
