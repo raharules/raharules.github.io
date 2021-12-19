@@ -24,6 +24,7 @@ I know that my redeemer liveth
   
 Palestrina (1525-1594)<br />
 Dum compleréntur dies Pentecóstes
+
 The Undercroft <br />
 Raha Mirzadegan, soprano <br />
 Timothy Parsons, countertenor <br />
