@@ -24,7 +24,6 @@ I know that my redeemer liveth
   
 Palestrina (1525-1594)<br />
 Dum compleréntur dies Pentecóstes
-
 The Undercroft <br />
 Raha Mirzadegan, soprano <br />
 Timothy Parsons, countertenor <br />
@@ -39,12 +38,6 @@ John Mullan, baritone <br />
 
 Bani Adam (Saadi)<br />
 Dokhtare Boirahmadi (traditional Persian)<br />
-
-
-<iframe width="100%" height="236" src="https://www.youtube.com/embed/PDFi6aGppfI" frameborder="0" allowfullscreen></iframe>
-
-Henry Purcell Set <br />
-Come all ye songsters, If music be the food of love v. III, Sweeter than roses
 
 
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/Zp3nSAJr_jA" frameborder="0" allowfullscreen></iframe>
