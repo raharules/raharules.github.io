@@ -30,13 +30,7 @@ Palestrina (1525-1594)<br />
 Dum compleréntur dies Pentecóstes
 
 The Undercroft <br />
-Raha Mirzadegan, soprano <br />
-Timothy Parsons, countertenor <br />
-Dan O'Neill, countertenor <br />
-Nicholas Levy, tenor <br />
-Luke Link, tenor <br />
-Collin Power, baritone <br />
-John Mullan, baritone <br />
+Raha Mirzadegan, soprano, Timothy Parsons, countertenor, Dan O'Neill, countertenor, Nicholas Levy, tenor, Luke Link, tenor, Collin Power, baritone, John Mullan, baritone
 
 
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/v39UYC_Akzo?controls=0" frameborder="0" allowfullscreen></iframe>
