@@ -23,9 +23,7 @@ a { color: green; }
 
 <div class="fb-video" data-href="https://www.facebook.com/theundercroftmusic/videos/1006636559542629/" data-width="500" data-show-text="false"><blockquote cite="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theundercroftmusic/videos/1006636559542629/"></a><p></p></blockquote></div>
   
-Palestrina (1525-1594)<br />
-Dum compleréntur dies Pentecóstes
-
+Dum compleréntur dies Pentecóstes, Palestrina (1525-1594) <br />
 The Undercroft <br />
 Raha Mirzadegan, soprano <br />
 Timothy Parsons, countertenor, Dan O'Neill, countertenor, Nicholas Levy, tenor, Luke Link, tenor, Collin Power, baritone, John Mullan, baritone
