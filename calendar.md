@@ -11,4 +11,7 @@ a { color: green; }
 Stay safe!</b>
 </font>
 
-
+![photo](Raha_and_palm.jpg)
+<br />
+Photo by Nuna Ulises
+<br />
