@@ -9,7 +9,7 @@ a { color: green; }
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe> 
 
 Handel, _Messiah_<br />
-I know that my redeemer liveth
+I know that my Redeemer liveth
 
 <iframe width="100%" height="440" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/913751419&color=%235a5558&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
