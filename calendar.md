@@ -8,6 +8,7 @@ a { color: green; }
 
 <font size="+1">
 <b>2022 schedule to be determined…<br />
+</font size="+1">
 Stay safe!</b>
 </font>
 
