@@ -9,7 +9,7 @@
 
 ![headshot](https://raharules.github.io/Raha.jpeg)
 <br />
-Photo by Jeff Mertz
+Photo by Nuna Ulises
 <br />
 
 
