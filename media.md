@@ -8,9 +8,6 @@ a { color: green; }
 
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/I6WD5Kt8C9Y" frameborder="0" allowfullscreen></iframe> 
 
-Handel, _Messiah_<br />
-I know that my Redeemer liveth
-
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/320134405&color=%23211612&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1090671583&color=%230c0706&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
