@@ -6,11 +6,10 @@ a { color: green; }
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar.html)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
-2022
-
-29 May, 1, 3 & 6 June, Dock Street Theater, Charleston, SC<br>
+29 May, 1, 3 & 6 June 2022<br>
 UNHOLY WARS (world premiere)<br>
 Spoleto Festival USA<br>
+Dock Street Theater, Charleston, SC
 
 An original multidisciplinary production stitching together music of the Italian Baroque centering around the Crusades, conceived and performed by Karim Sulayman
 
@@ -30,8 +29,9 @@ with original interstitial music composed by Mary Kouyoumdjian
 
 <a href="https://spoletousa.org/events/unholy-wars/">More info</a>
 
-8 June, The Cloisters, New York, NY<br>
+8 June 2022<br>
 JOSQUIN MARATHON AT THE MET CLOISTERS<br>
+The Cloisters, New York, NY
 
 Marking the 500th anniversary of the death of the great Renaissance master, Josquin des Prez, recorder, brass, viol and vocal consorts from The Clarion Orchestra and Choir will tell his story...over a period of six hours, from 3pm - 8pm.
 
