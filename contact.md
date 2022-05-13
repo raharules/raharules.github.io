@@ -11,4 +11,3 @@ For booking or other queries, feel free to email me directly:
 raha.mirzadegan@gmail.com
 
 ![art](https://raharules.github.io/dance of death.jpeg)
-<br />
