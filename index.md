@@ -7,9 +7,7 @@
 
  Hello, world!
 
-![headshot](https://raharules.github.io/Raha.jpeg)
-<br />
+![headshot](https://raharules.github.io/Raha.jpeg)<br>
 Photo by Nuna Ulises
-<br />
 
 
