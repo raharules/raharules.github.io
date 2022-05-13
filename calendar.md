@@ -33,7 +33,7 @@ with original interstitial music composed by Mary Kouyoumdjian
 <b>JOSQUIN MARATHON AT THE MET CLOISTERS</b><br>
 The Cloisters, New York, NY<br>
 
-Marking the 500th anniversary of the death of the great Renaissance master, Josquin des Prez, recorder, brass, viol and vocal consorts from The Clarion Orchestra and Choir will tell his story...over a period of six hours, from 3pm - 8pm.
+Marking the 500th anniversary of the death of the great Renaissance master, Josquin des Prez, recorder, brass, viol and vocal consorts from The Clarion Orchestra and Choir will tell his story...over a period of six hours, from 3PM - 8PM.
 
 The Clarion Choir<br>
 Viol, Brass, and Recorder Consorts from The Clarion Orchestra<br>
