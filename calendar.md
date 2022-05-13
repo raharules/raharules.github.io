@@ -13,7 +13,7 @@ Close-up of painting by Maud Taber-Thomas<br>
 29 May, 1, 3 & 6 June 2022<br>
 <b>UNHOLY WARS (world premiere)</b><br>
 Spoleto Festival USA<br>
-Dock Street Theater, Charleston, SC<br>
+Dock Street Theatre, Charleston, SC<br>
 
 An original multidisciplinary production stitching together music of the Italian Baroque centering around the Crusades, conceived and performed by Karim Sulayman
 
