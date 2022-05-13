@@ -6,9 +6,6 @@ a { color: green; }
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar.html)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
-![painting](A_Matter_of_Perspective_Oil_on_Canvas_Painting_Close_Up_Maud_Taber_Thomas_Washington_DC_Georgetown.jpeg)<br>
-Close-up of painting by Maud Taber-Thomas<br>
-
 ![unholy wars](UnholyWars.jpeg)<br>
 29 May, 1, 3 & 6 June 2022<br>
 <b>UNHOLY WARS (world premiere)</b><br>
