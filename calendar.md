@@ -33,6 +33,7 @@ with original interstitial music composed by Mary Kouyoumdjian
 
 <a href="https://spoletousa.org/events/unholy-wars/">More info</a>
 
+![clarion](Clarion_at_Cloisters.jpeg)<br>
 8 June 2022<br>
 <b>JOSQUIN MARATHON AT THE MET CLOISTERS</b><br>
 The Cloisters, New York, NY<br>
