@@ -8,7 +8,7 @@ a { color: green; }
 
 ![unholy wars](UnholyWars.jpeg)<br>
 29 May, 1, 3 & 6 June 2022<br>
-<b>UNHOLY WARS (world premiere)</b><br>
+<b>Unholy Wars (world premiere)</b><br>
 Spoleto Festival USA<br>
 Dock Street Theatre, Charleston, SC<br>
 
@@ -32,7 +32,7 @@ with original interstitial music composed by Mary Kouyoumdjian
 
 ![clarion](Clarion_at_Cloisters.jpeg)<br>
 8 June 2022<br>
-<b>JOSQUIN MARATHON AT THE MET CLOISTERS</b><br>
+<b>Josquin Marathon at The Met Cloisters</b><br>
 The Cloisters, New York, NY<br>
 
 Marking the 500th anniversary of the death of the great Renaissance master, Josquin des Prez, recorder, brass, viol and vocal consorts from The Clarion Orchestra and Choir will tell his story...over a period of five hours, from 3PM - 8PM.
