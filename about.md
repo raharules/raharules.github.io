@@ -11,8 +11,8 @@ Photo by Nuna Ulises
 
 <p style="text-align:justify">
 The soprano Raha Mirzadegan is a Persian-American musician based in New York. A lover of sacred music and polyphony, her repertoire spans the medieval chant of Hildegard von Bingen to premieres of new works by living composers.
-
+<br>
 In spring of 2022, Raha was a guest artist at Spoleto Festival USA, where she made her operatic stage debut with "stylish elegance and intensity" (Wall Street Journal) as the featured soprano in the world premiere of Unholy Wars—a baroque pastiche created by Karim Sulayman. Acclaimed for her "stirring, soulful tones" (The Post & Courier), this season Raha will again join The Clarion Choir for performances in New York City, and on tour with The English Concert and Harry Bicket.
-
+<br>
 Raha studied voice with Gran Wilson at the University of Maryland.
 </p>
