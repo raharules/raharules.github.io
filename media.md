@@ -2,7 +2,7 @@
 title: media
 ---
 <style>
-a { color: brown ; } 
+a { color: brown; } 
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar.html)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
