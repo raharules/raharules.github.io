@@ -30,31 +30,5 @@ with original interstitial music composed by Mary Kouyoumdjian
 
 <a href="https://spoletousa.org/events/unholy-wars/">More info</a>
 
-![clarion](Clarion_at_Cloisters.jpeg)<br>
-8 June 2022<br>
-<b>Josquin Marathon at The Met Cloisters</b><br>
-The Cloisters, New York, NY<br>
-
-Marking the 500th anniversary of the death of the great Renaissance master, Josquin des Prez, recorder, brass, viol and vocal consorts from The Clarion Orchestra and Choir will tell his story...over a period of five hours, from 3PM - 8PM.
-
-The Clarion Choir<br>
-Viol, Brass, and Recorder Consorts from The Clarion Orchestra<br>
-Steven Fox, director
-
-<a href="https://clarionsociety.org/events/2021-22-season/josquin.html">More info</a>
-
-9 June 2022<br>
-<b>Clarion Society: Josquin des Prez</b><br>
-The Cloisters, New York, NY<br>
-
-Due to audience demand, the Josquin Marathon is extended with an added performance featuring The Clarion Choir & Orchestra in the breathtaking Fuentidueña Chapel.
-
-The Clarion Choir<br>
-Viol, Brass, and Recorder Consorts from The Clarion Orchestra<br>
-Steven Fox, director
-
-<a href="https://www.metmuseum.org/events/programs/met-live-arts/fy22_clarion-society_josquin-des-prez-added-concert">More info</a>
-
-
 ![photo](Raha_and_palm.jpg)<br>
 Photo by Nuna Ulises
