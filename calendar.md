@@ -6,6 +6,19 @@ a { color: green; }
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar.html)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
+![studio concert](CharpentierConcertPoster.jpg)<br>
+7 February 2023<br>
+THEOTOKOS<br>
+<b>Charpentier: Leçons de ténèbres</b><br>
+St. Mary's Studio, Manhattan, NY<br>
+
+Raha Mirzadegan, soprano<br>
+Elisse Albian, soprano<br>
+Tsutomu William Copeland, violin<br>
+Doug Balliett, viola da gamba<br>
+Elliot Figg, harpsichord<br>
+<a href="https://www.universe.com/theotokos">More info</a>
+
 ![unholy wars](UnholyWars.jpeg)<br>
 29 May, 1, 3 & 6 June 2022<br>
 <b>Unholy Wars (world premiere)</b><br>
