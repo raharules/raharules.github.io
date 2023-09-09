@@ -6,6 +6,10 @@ a { color: maroon; }
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about.html)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar.html)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media.html)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact.html)
 
+<b>23-24 SEASON TO BE ANNOUNCED...</b>
+
+Recent engagements:
+
 ![studio concert](CharpentierConcertPoster.jpg)<br>
 7 February 2023<br>
 THEOTOKOS<br>
