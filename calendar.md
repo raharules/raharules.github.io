@@ -6,7 +6,8 @@ a { color: maroon; }
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact)
 
-<b>23-24 SEASON...</b>
+![photo](Raha_cloisters.jpg)<br>
+Photo by Nuna Ulises
 
 23, 27, 30 September, & 1 October 2023<br>
 <b>Unholy Wars</b><br>
@@ -150,6 +151,3 @@ Jennifer Fok, lighting design<br>
 with original interstitial music composed by Mary Kouyoumdjian
 
 <a href="https://spoletousa.org/events/unholy-wars/">More info</a>
-
-![photo](Raha_and_palm.jpg)<br>
-Photo by Nuna Ulises
