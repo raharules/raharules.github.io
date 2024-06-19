@@ -97,6 +97,11 @@ Elliot Figg ~ organ<br>
 
 <a href="https://gemsny.org/current-season/117-midtown-concerts/2023-2024-season/990-mar-28-2024">More info</a>
 
+1 May 2024<br>
+<b>J.S. BACH: MASS IN B MINOR</b><br>
+Clarion
+
+<a href="https://clarionsociety.org/events/2023-24-season/bachmass.html">More info</a>
 
 12 June 2024<br>
 <b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b><br>
