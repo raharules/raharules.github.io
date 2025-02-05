@@ -5,9 +5,61 @@ title: calendar
 a { color: maroon; } 
 </style>
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact)
-
 ![photo](Raha_cloisters.jpg)<br>
 Photo by Nuna Ulises
+<br>
+<br>
+NEXT UP:
+<br>
+February: French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
+<br>
+March: Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
+<br>
+March: Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
+<br>
+April: Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
+<br>
+April/May: House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+
+
+Recent engagements:
+![unholy wars](UnholyWars.jpeg)<br>
+29 May, 1, 3 & 6 June 2022<br>
+<b>Unholy Wars (world premiere)</b><br>
+Spoleto Festival USA<br>
+Dock Street Theatre, Charleston, SC<br>
+
+An original multidisciplinary production stitching together music of the Italian Baroque centering around the Crusades, conceived and performed by Karim Sulayman
+
+Karim Sulayman, tenor<br>
+Raha Mirzadegan, soprano<br>
+John Taylor Ward, bass-baritone<br>
+Coral Dolphin, dancer<br>
+
+Kevin Newbury, stage direction<br>
+Julie Andrijeski, music direction<br>
+Ebony Williams, choreography<br>
+Kevork Mourad, visual design<br>
+David C. Woolard, costume design<br>
+Jennifer Fok, lighting design<br>
+
+with original interstitial music composed by Mary Kouyoumdjian
+
+![studio concert](CharpentierConcertPoster.jpg)<br>
+7 February 2023<br>
+THEOTOKOS<br>
+<b>Charpentier: Leçons de ténèbres</b><br>
+St. Mary's Studio, Manhattan, NY<br>
+
+Raha Mirzadegan, soprano<br>
+Elisse Albian, soprano<br>
+Tsutomu William Copeland, violin<br>
+Doug Balliett, viola da gamba<br>
+Elliot Figg, harpsichord<br>
+
+<a href="https://www.universe.com/theotokos">More info</a>
+
+<a href="https://spoletousa.org/events/unholy-wars/">More info</a>
 
 23, 27, 30 September, & 1 October 2023<br>
 <b>Unholy Wars</b><br>
@@ -111,43 +163,4 @@ Over a period of five hours, the different instrumental and vocal consorts from 
 
 <a href="https://clarionsociety.org/events/2023-24-season/cloisters.html">More info</a>
 
-
-Recent engagements:
-
-![studio concert](CharpentierConcertPoster.jpg)<br>
-7 February 2023<br>
-THEOTOKOS<br>
-<b>Charpentier: Leçons de ténèbres</b><br>
-St. Mary's Studio, Manhattan, NY<br>
-
-Raha Mirzadegan, soprano<br>
-Elisse Albian, soprano<br>
-Tsutomu William Copeland, violin<br>
-Doug Balliett, viola da gamba<br>
-Elliot Figg, harpsichord<br>
-
-<a href="https://www.universe.com/theotokos">More info</a>
-
-![unholy wars](UnholyWars.jpeg)<br>
-29 May, 1, 3 & 6 June 2022<br>
-<b>Unholy Wars (world premiere)</b><br>
-Spoleto Festival USA<br>
-Dock Street Theatre, Charleston, SC<br>
-
-An original multidisciplinary production stitching together music of the Italian Baroque centering around the Crusades, conceived and performed by Karim Sulayman
-
-Karim Sulayman, tenor<br>
-Raha Mirzadegan, soprano<br>
-John Taylor Ward, bass-baritone<br>
-Coral Dolphin, dancer<br>
-
-Kevin Newbury, stage direction<br>
-Julie Andrijeski, music direction<br>
-Ebony Williams, choreography<br>
-Kevork Mourad, visual design<br>
-David C. Woolard, costume design<br>
-Jennifer Fok, lighting design<br>
-
-with original interstitial music composed by Mary Kouyoumdjian
-
-<a href="https://spoletousa.org/events/unholy-wars/">More info</a>
+![image](https://github.com/user-attachments/assets/b9377831-0229-454e-9cf6-b7efb6419579)
