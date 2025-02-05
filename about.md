@@ -9,7 +9,7 @@ a { color: maroon; }
 ![photo](Raha_sitting.jpg)<br>
 Photo by Nuna Ulises
 
-<p style="text-align:justify">
+<p style="text-align:left">
 "You should all be fighting for a chance to hear soprano Raha Mirzadegan, whose straight tone soars with opulent richness and resonance." (<i>All Ears</i>)<br>
 <br>
   
