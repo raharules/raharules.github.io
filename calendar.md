@@ -11,15 +11,19 @@ Photo by Nuna Ulises
 <br>
 NEXT UP:
 <br>
-February: French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
+<b>February:</b> French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
 <br>
-March: Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
 <br>
-March: Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
+<b>March:</b> Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
 <br>
-April: Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
 <br>
-April/May: House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+<b>March:</b> Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
+<br>
+<br>
+<b>April:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
+<br>
+<br>
+<b>April/May:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
 
 
 Recent engagements:
