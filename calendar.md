@@ -7,6 +7,7 @@ a { color: maroon; }
 [home](/)&nbsp;&nbsp;&nbsp;&nbsp; [about](/about)&nbsp;&nbsp;&nbsp;&nbsp; [calendar](/calendar)&nbsp;&nbsp;&nbsp;&nbsp; [media](/media)&nbsp;&nbsp;&nbsp;&nbsp; [contact](/contact)
 ![photo](Raha_cloisters.jpg)<br>
 Photo by Nuna Ulises
+<p style="text-align:left">
 <br>
 <br>
 NEXT UP:
@@ -166,3 +167,4 @@ Clarion
 Over a period of five hours, the different instrumental and vocal consorts from The Clarion Choir and The Clarion Orchestra will explore the works of Johannes Ockeghem in various parts of the Cloisters, including the Romanesque Hall, Cuxa Cloister, Langon Chapel, and Saint Guilhem Cloister. Ockeghem was one of the most influential early Renaissance composers and an important proponent of the Franco-Flemish School. After looking at his earlier and middle period works with smaller ensembles throughout the day, the Clarion singers and players will come together for a final concert of his later works from 7-8pm in the glorious Fuentidueña Chapel.
 
 <a href="https://clarionsociety.org/events/2023-24-season/cloisters.html">More info</a>
+</p>
