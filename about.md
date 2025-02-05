@@ -26,8 +26,10 @@ This winter, Raha will spend time in Thiré, performing Balliett’s newest work
 <br>
 <br>
 Mirzadegan is the founder and director of <b>Hudson Baroque</b>, an organization whose aim is to provide soul-nourishing, and accessible concerts for all members of the regional community. In collaboration with award-winning, internationally acclaimed artists—players from <b>Il Pomo d’Oro</b>, <b>Les Talens Lyriques</b>, <b>Holland Baroque</b>, <b>The English Concert</b>, <b>Pygmalion</b>, <b>Jupiter</b>, <b>Ruckus</b>, <b>Theotokos</b>, and <b>Les Arts Florissants</b>, etc., students and graduates of the Juilliard415 program, and TECA fellows, as well as some of the finest vocalists on the early music scene, including current and past singers from Trinity Church, Wall Street, <b>The Clarion Choir</b>, <b>Sequentia</b>, and St. Thomas, Fifth Avenue—Hudson Baroque is where passion, virtuosity, and historically informed performance practice foster a culture of excellence, and goodwill.
+</p>
 <br>
 <br>
+<p style="text-align:left">
 NEXT UP:
 <br>
 <ul>
