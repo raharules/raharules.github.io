@@ -29,7 +29,7 @@ Mirzadegan is the founder and director of <b>Hudson Baroque</b>, an organization
 </p>
 <br>
 <br>
-<p style="text-align:left">
+<p align="left">
 NEXT UP:
 <br>
 <ul>
