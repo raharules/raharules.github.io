@@ -27,18 +27,3 @@ This winter, Raha will spend time in Thiré, performing Balliett’s newest work
 <br>
 Mirzadegan is the founder and director of <b>Hudson Baroque</b>, an organization whose aim is to provide soul-nourishing, and accessible concerts for all members of the regional community. In collaboration with award-winning, internationally acclaimed artists—players from <b>Il Pomo d’Oro</b>, <b>Les Talens Lyriques</b>, <b>Holland Baroque</b>, <b>The English Concert</b>, <b>Pygmalion</b>, <b>Jupiter</b>, <b>Ruckus</b>, <b>Theotokos</b>, and <b>Les Arts Florissants</b>, etc., students and graduates of the Juilliard415 program, and TECA fellows, as well as some of the finest vocalists on the early music scene, including current and past singers from Trinity Church, Wall Street, <b>The Clarion Choir</b>, <b>Sequentia</b>, and St. Thomas, Fifth Avenue—Hudson Baroque is where passion, virtuosity, and historically informed performance practice foster a culture of excellence, and goodwill.
 </p>
-<br>
-<br>
-NEXT UP:
-<br>
-<ul>
-  <li>French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b></li>
-<br>
-<li>Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i></li>
-<br>
-<li>Soloist in <i>Messiah</i> with <b>Hudson Baroque</b></li>
-<br>
-<li>Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b></li>
-<br>
-<li>House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather</li>
-</ul>
