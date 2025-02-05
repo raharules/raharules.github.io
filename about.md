@@ -30,9 +30,15 @@ Mirzadegan is the founder and director of <b>Hudson Baroque</b>, an organization
 <br>
 NEXT UP:
 <br>
-French Ministry of Culture’s Odysée artist-in-residency program, with Theotokos, hosted by William Christie and Les Arts Florissants
-Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i> 
-Soloist in <i>Messiah</i> with Hudson Baroque
-Soloist in Bach's <i>St. John Passion</i> with Clarion
-House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+<ul>
+  <li>French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b></li>
+<br>
+<li>Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i></li>
+<br>
+<li>Soloist in <i>Messiah</i> with <b>Hudson Baroque</b></li>
+<br>
+<li>Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b></li>
+<br>
+<li>House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather</li>
+</ul>
 </p>
