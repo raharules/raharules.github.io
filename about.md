@@ -29,7 +29,6 @@ Mirzadegan is the founder and director of <b>Hudson Baroque</b>, an organization
 </p>
 <br>
 <br>
-<p align="left">
 NEXT UP:
 <br>
 <ul>
@@ -43,4 +42,3 @@ NEXT UP:
 <br>
 <li>House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather</li>
 </ul>
-</p>
