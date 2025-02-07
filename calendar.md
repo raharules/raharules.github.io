@@ -24,9 +24,8 @@ NEXT UP:
 <b>April:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
 <br>
 <br>
-<iframe width="100%" height="236" src="https://www.youtube.com/embed/4wEbXnwlaMo?si=CAQd-PcvvcPtxMAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
 <b>April/May:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/4wEbXnwlaMo?si=CAQd-PcvvcPtxMAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <br>
 Recent engagements:
