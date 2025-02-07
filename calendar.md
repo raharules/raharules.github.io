@@ -24,9 +24,9 @@ NEXT UP:
 <b>April:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
 <br>
 <br>
-<b>April/May:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
-<br>
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/4wEbXnwlaMo?si=CAQd-PcvvcPtxMAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<b>April/May:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
 <br>
 <br>
 Recent engagements:
@@ -66,15 +66,12 @@ Tsutomu William Copeland, violin<br>
 Doug Balliett, viola da gamba<br>
 Elliot Figg, harpsichord<br>
 
-<a href="https://www.universe.com/theotokos">More info</a>
 
-
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/T-QEsYIEjbU?si=N5usxnbVVXHKY3lf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 23, 27, 30 September, & 1 October 2023<br>
 <b>Unholy Wars</b><br>
 Opera Philadelphia Premiere<br>
 Part of Festival O23<br>
-
-<iframe width="100%" height="236" src="https://www.youtube.com/embed/T-QEsYIEjbU?si=N5usxnbVVXHKY3lf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 26-30 October 2023<br>
@@ -84,6 +81,7 @@ New Opera Workshop @ Opera America<br>
 DRIFT is a story of motherhood, migration and climate change, exploring the forces that drive families from their homes into the uncertain refuge of new lands. Braiding an intimate narrative between Esmeralda and her childhood friend, James, DRIFT opens in a glacial landscape scarred by ecological disaster. Swinging between the domestic and the surreal, the second act returns to the terminal green of the characters’ youths as they navigate in a toxic-laden panorama of swamplands and power plants. An intersectional portrait of identity, DRIFT necessitates a radically new examination of motherlands, geography and memory. 
 
 Original story and libretto by J. Mae Barizo, and music by Alyssa Weinberg. Currently under development, supported by Opera America’s Discovery Grant program and made possible by the Virginia B. Toulmin Foundation. DRIFT is actively looking for additional support and welcomes interest from co-commissioners and presenters.
+
 
 12 November 2023<br>
 <b>Soloist with Theotokos and special guest William Christie of <i>Les Arts Florissants</i></b><br>
@@ -112,8 +110,6 @@ DOUG BALLIETT, viola da gamba<br>
 ELLIOT FIGG, harpsichord<br>
 
 Theotokos performs old and new sacred music, linking the liturgical traditions of the Baroque with contemporary compositional voices.
-
-<a href="https://5bmf.org/events/theotokos/">More info</a>
 
 
 31 December 2023<br>
@@ -156,17 +152,13 @@ Emery Kerekes ~ bass<br>
 Doug Balliett ~ viol & director<br>
 Elliot Figg ~ organ<br>
 
-<a href="https://gemsny.org/current-season/117-midtown-concerts/2023-2024-season/990-mar-28-2024">More info</a>
 
 1 May 2024<br>
 <b>J.S. BACH: MASS IN B MINOR</b><br>
 Clarion
 
-<a href="https://clarionsociety.org/events/2023-24-season/bachmass.html">More info</a>
 
 12 June 2024<br>
 <b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b><br>
 
 Over a period of five hours, the different instrumental and vocal consorts from The Clarion Choir and The Clarion Orchestra will explore the works of Johannes Ockeghem in various parts of the Cloisters, including the Romanesque Hall, Cuxa Cloister, Langon Chapel, and Saint Guilhem Cloister. Ockeghem was one of the most influential early Renaissance composers and an important proponent of the Franco-Flemish School. After looking at his earlier and middle period works with smaller ensembles throughout the day, the Clarion singers and players will come together for a final concert of his later works from 7-8pm in the glorious Fuentidueña Chapel.
-
-<a href="https://clarionsociety.org/events/2023-24-season/cloisters.html">More info</a>
