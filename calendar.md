@@ -24,6 +24,8 @@ NEXT UP:
 <br>
 <br>
 <b>April/May:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+<br>
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/ED0DYaDpp9k?si=0vyygwuhlU7kgyeG" frameborder="0" allowfullscreen></iframe>
 
 
 Recent engagements:
