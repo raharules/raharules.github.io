@@ -68,14 +68,13 @@ Elliot Figg, harpsichord<br>
 
 <a href="https://www.universe.com/theotokos">More info</a>
 
-<a href="https://spoletousa.org/events/unholy-wars/">More info</a>
 
 23, 27, 30 September, & 1 October 2023<br>
 <b>Unholy Wars</b><br>
 Opera Philadelphia Premiere<br>
 Part of Festival O23<br>
 
-<a href="https://www.operaphila.org/whats-on/in-theaters-2023-2024/unholy-wars">More info</a>
+<iframe width="100%" height="236" src="https://www.youtube.com/embed/T-QEsYIEjbU?si=N5usxnbVVXHKY3lf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 26-30 October 2023<br>
