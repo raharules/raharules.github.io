@@ -11,6 +11,7 @@ Photo by Nuna Ulises
 <br>
 NEXT UP:
 <br>
+<br>
 <b>February:</b> French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
 <br>
 <br>
