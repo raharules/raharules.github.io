@@ -12,7 +12,7 @@ Photo by Nuna Ulises
 NEXT UP:
 <br>
 <br>
-<b>November 5-9:</b> Angel in the world premiere of <a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a> by Sarah Kirkland Sneider at LA Opera
+<b>November 5-9:</b> Angel in the world premiere of <b><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></b> by Sarah Kirkland Sneider at <b>LA Opera</b>
 <br>
 <br>
 Recent engagements:
