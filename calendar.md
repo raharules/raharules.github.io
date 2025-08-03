@@ -151,19 +151,19 @@ Clarion
 Over a period of five hours, the different instrumental and vocal consorts from The Clarion Choir and The Clarion Orchestra will explore the works of Johannes Ockeghem in various parts of the Cloisters, including the Romanesque Hall, Cuxa Cloister, Langon Chapel, and Saint Guilhem Cloister. Ockeghem was one of the most influential early Renaissance composers and an important proponent of the Franco-Flemish School. After looking at his earlier and middle period works with smaller ensembles throughout the day, the Clarion singers and players will come together for a final concert of his later works from 7-8pm in the glorious Fuentidueña Chapel.
 
 
-<b>February:</b> French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
+<b>February 2025:</b> French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
 <br>
 <br>
-<b>March:</b> Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
+<b>March 2025:</b> Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
 <br>
 <br>
-<b>March:</b> Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
+<b>March 2025:</b> Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
 <br>
 <br>
-<b>April:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
+<b>April 2025:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
 <br>
 <br>
-<b>April/May:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+<b>April/May 2025:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/4wEbXnwlaMo?si=CAQd-PcvvcPtxMAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <br>
