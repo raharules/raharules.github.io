@@ -13,7 +13,7 @@ Photo by Nuna Ulises
 "You should all be fighting for a chance to hear soprano Raha Mirzadegan, whose straight tone soars with opulent richness and resonance." (<i>All Ears</i>)
 <br>
 <br>
-Praised for her “stylish elegance and intensity” (<i>Wall Street Journal</i>), soprano Raha Mirzadegan performs internationally in opera, oratorio, choral and chamber music. Equally at home singing medieval chant and cutting-edge premieres alike, she is known for her “stirring, soulful tones” (<i>The Post & Courier</i>) and “straight tone [that] soars with opulent richness and resonance” (<i>All Ears</i>).
+Praised for her “stylish elegance and intensity” (<i>Wall Street Journal</i>), soprano Raha Mirzadegan performs internationally in opera, oratorio, choral and chamber music. Equally at home singing medieval chant and cutting-edge premieres, she is known for her “stirring, soulful tones” (<i>The Post & Courier</i>) and “straight tone [that] soars with opulent richness and resonance” (<i>All Ears</i>).
 <br>
 <br>
 Highlights from 2025 include a house and role debut as Sesto in Handel’s <i>Giulio Cesare</i> with Ruckus at Hudson Hall, directed by R.B. Schlather. Her “clear tone and arresting agility” (<i>Times Union</i>) were praised as “the revelation of the afternoon” (<i>Observer</i>). In late winter, she joined Theotokos for a residency in Thiré, France as part of the French Ministry of Culture’s Odyssée artist-in-residency program. Hosted by Les Arts Florissants, the group’s performance featured Raha in pairings of Purcell arias and premieres by Doug Balliett.
