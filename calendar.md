@@ -12,17 +12,17 @@ Photo by Nuna Ulises
 NEXT UP:
 <br>
 <br>
-<b>February 14-15:</b> Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i>
+<b>February 14-15:</b> Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i><br>
 with <b>Academy of Sacred Drama</b>
 <br>
 <br>
-<b>March:</b> Tour of Handel's <i>Hercules</i> with <b>The English Concert</b> and <b>Clarion</b>
+<b>March:</b> Tour of Handel's <i>Hercules</i><br> with <b>The English Concert</b> and <b>Clarion</b>
 <br>
 <br>
 <b>April:</b> <i>Divas & Strings</i> with <b>Musimelange</b> in Miami, Florida
 <br>
 <br>
-<b>June 7:</b> <i>"Who Taught my Grief to thee?"</i> a voice-piano recital with <i><a href="https://www.andrewlesliecooper.com/">Andrew Leslie Cooper</a></i>
+<b>June 7:</b> <i>"Who Taught my Grief to thee?"</i> a voice-piano recital<br> with <i><a href="https://www.andrewlesliecooper.com/">Andrew Leslie Cooper</a></i>
 <br>
 <br>
 Recent engagements:
@@ -36,31 +36,11 @@ Dock Street Theatre, Charleston, SC<br>
 
 An original multidisciplinary production stitching together music of the Italian Baroque centering around the Crusades, conceived and performed by Karim Sulayman
 
-Karim Sulayman, tenor<br>
-Raha Mirzadegan, soprano<br>
-John Taylor Ward, bass-baritone<br>
-Coral Dolphin, dancer<br>
-
-Kevin Newbury, stage direction<br>
-Julie Andrijeski, music direction<br>
-Ebony Williams, choreography<br>
-Kevork Mourad, visual design<br>
-David C. Woolard, costume design<br>
-Jennifer Fok, lighting design<br>
-
-with original interstitial music composed by Mary Kouyoumdjian
-
 ![studio concert](CharpentierConcertPoster.jpg)<br>
 7 February 2023<br>
 THEOTOKOS<br>
 <b>Charpentier: Leçons de ténèbres</b><br>
 St. Mary's Studio, Manhattan, NY<br>
-
-Raha Mirzadegan, soprano<br>
-Elisse Albian, soprano<br>
-Tsutomu William Copeland, violin<br>
-Doug Balliett, viola da gamba<br>
-Elliot Figg, harpsichord<br>
 
 
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/T-QEsYIEjbU?si=N5usxnbVVXHKY3lf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -97,14 +77,6 @@ Presented by Five Buroughs Music Festival<br>
 THEOTOKOS<br>
 St. Mary's Grand Street, NYC
 
-RAHA MIRZADEGAN, soprano<br>
-LEIKEN, tenor<br>
-WILL COPELAND, violin<br>
-CLAY ZELLER-TOWNSON, bassoon<br>
-KELSEY BURNHAM, flute<br>
-DOUG BALLIETT, viola da gamba<br>
-ELLIOT FIGG, harpsichord<br>
-
 Theotokos performs old and new sacred music, linking the liturgical traditions of the Baroque with contemporary compositional voices.
 
 
@@ -140,14 +112,6 @@ Raha Mirzadegan and Sarah Young return to Stone Ridge, New York for their second
 <b>Marenzio: Salve Regina</b><br>
 Theotokos, Midtown Concerts<br>
 
-Elisse Albian ~ soprano<br>
-Raha Mirzadegan ~ soprano<br>
-Elisa Sutherland ~ alto<br>
-leiken ~ tenor<br>
-Emery Kerekes ~ bass<br>
-Doug Balliett ~ viol & director<br>
-Elliot Figg ~ organ<br>
-
 
 1 May 2024<br>
 <b>J.S. BACH: MASS IN B MINOR</b><br>
@@ -176,6 +140,9 @@ Over a period of five hours, the different instrumental and vocal consorts from 
 <br>
 <br>
 <b>April 2025:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
+<br>
+<br>
+<b>August 2025</b> <i></i>A Voice from Heaven</i> with <b></b>Hudson Baroque</b>
 <br>
 <br>
 <br><b>November 2025:</b> Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
