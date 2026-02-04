@@ -22,34 +22,31 @@ with <b>Academy of Sacred Drama</b>
 <b>April:</b> <i>Divas & Strings</i> with <b>Musimelange</b> in Miami, Florida
 <br>
 <br>
-<b>June 7:</b> <i>"Who Taught my Grief to thee?"</i> a voice-piano recital<br> with <i><a href="https://www.andrewlesliecooper.com/">Andrew Leslie Cooper</a></i>
+<b>June 7:</b> <i>"Who Taught my Grief to thee?"</i> a voice-piano recital<br> with <a href="https://www.andrewlesliecooper.com/">Andrew Leslie Cooper</a>
 <br>
 <br>
 Recent engagements:
 <br>
 <br>
-![unholy wars](UnholyWars.jpeg)<br>
 29 May, 1, 3 & 6 June 2022<br>
 <b>Unholy Wars (world premiere)</b><br>
 Spoleto Festival USA<br>
-Dock Street Theatre, Charleston, SC<br>
-
-An original multidisciplinary production stitching together music of the Italian Baroque centering around the Crusades, conceived and performed by Karim Sulayman
-
-![studio concert](CharpentierConcertPoster.jpg)<br>
+Dock Street Theatre, Charleston, SC
+<br>
+<br>
 7 February 2023<br>
 THEOTOKOS<br>
 <b>Charpentier: Leçons de ténèbres</b><br>
-St. Mary's Studio, Manhattan, NY<br>
-
-
+St. Mary's Studio, Manhattan, NY
+<br>
+<br>
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/T-QEsYIEjbU?si=N5usxnbVVXHKY3lf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 23, 27, 30 September, & 1 October 2023<br>
 <b>Unholy Wars</b><br>
 Opera Philadelphia Premiere<br>
-Part of Festival O23<br>
-
-
+Part of Festival O23
+<br>
+<br>
 26-30 October 2023<br>
 <b>DRIFT: An Opera in Three Acts</b><br>
 New Opera Workshop @ Opera America<br>
