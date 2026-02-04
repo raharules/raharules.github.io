@@ -49,77 +49,62 @@ Part of Festival O23
 <br>
 26-30 October 2023<br>
 <b>DRIFT: An Opera in Three Acts</b><br>
-New Opera Workshop @ Opera America<br>
-
-DRIFT is a story of motherhood, migration and climate change, exploring the forces that drive families from their homes into the uncertain refuge of new lands. Braiding an intimate narrative between Esmeralda and her childhood friend, James, DRIFT opens in a glacial landscape scarred by ecological disaster. Swinging between the domestic and the surreal, the second act returns to the terminal green of the characters’ youths as they navigate in a toxic-laden panorama of swamplands and power plants. An intersectional portrait of identity, DRIFT necessitates a radically new examination of motherlands, geography and memory. 
-
-Original story and libretto by J. Mae Barizo, and music by Alyssa Weinberg. Currently under development, supported by Opera America’s Discovery Grant program and made possible by the Virginia B. Toulmin Foundation. DRIFT is actively looking for additional support and welcomes interest from co-commissioners and presenters.
-
-
+New Opera Workshop @ Opera America
+<br>
+<br>
 12 November 2023<br>
-<b>Soloist with Theotokos and special guest William Christie of <i>Les Arts Florissants</i></b><br>
-
-
+<b>Soloist with Theotokos and special guest William Christie of <i>Les Arts Florissants</i></b>
+<br>
+<br>
 19 November 2023<br>
 <b>Les chevelures voice-piano recital</b><br>
 Raha Mirzadegan, soprano<br>
 Sarah Young, piano<br>
-Stone Ridge, New York<br>
-
-
+Stone Ridge, New York
+<br>
+<br>
 7 December 2023<br>
 <b>Cantatas: Yesterday and Today</b><br>
 Music of Telemann and Balliett<br>
 Presented by Five Buroughs Music Festival<br>
 THEOTOKOS<br>
 St. Mary's Grand Street, NYC
-
-Theotokos performs old and new sacred music, linking the liturgical traditions of the Baroque with contemporary compositional voices.
-
-
+<br>
+<br>
 31 December 2023<br>
 <b>Gawain and the Green Knight</b><br>
 A Medieval New Year's Legend<br>
 by Doug Balliett<br>
 Raha reprises the role of Guinevere<br>
 New York City
-
-Performed by Elisse Albian, Jesse Blumberg, Taylor Ward, Jonathan Woody, Karim Sulayman, Elisa Sutherland, Raha Mirzadegan, members of ACRONYM, Ruckus, AMOC, and more.
-
-Gawain and the Green Knight: a Christmas story, a horror story, a romance, a paean to nature. All set at King Arthur’s court which huddles in its luxury on the borders of unforgiving wilderness and forces unknown. Gawain has agreed to have his head chopped off in a year’s time. But why? And can he live up to his promise, or his legendary perfection?
-
-
+<br>
+<br>
 1-4 January 2024<br>
 <b>Gawain and the Green Knight studio recording</b><br>
 Oktaven Studios
-
-
+<br>
+<br>
 18 February 2024<br>
 <b>Les chevelures voice-piano recital</b><br>
 Raha Mirzadegan, soprano<br>
 Sarah Young, piano<br>
 Stone Ridge, New York<br>
-
-Mark your calendars for 4 o’clock on February 18th, for an hour-long concert featuring works by Fauré, Debussy, Ravel, Britten, Purcell, and Vaughan Williams, followed by a reception with delicious food offerings.
-
-Raha Mirzadegan and Sarah Young return to Stone Ridge, New York for their second recital as the voice-piano duo Les Chevelures. The two began their friendship and musical collaboration while undergraduate students at the University of Maryland, College Park. They are thrilled to be back to share this music with the wonderful community at CTK, Stone Ridge.
-
-
+<br>
+<br>
 28 March 2024<br>
 <b>Marenzio: Salve Regina</b><br>
-Theotokos, Midtown Concerts<br>
-
-
+Theotokos, Midtown Concerts
+<br>
+<br>
 1 May 2024<br>
 <b>J.S. BACH: MASS IN B MINOR</b><br>
 Clarion
-
-
+<br>
+<br>
 12 June 2024<br>
-<b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b><br>
-
-Over a period of five hours, the different instrumental and vocal consorts from The Clarion Choir and The Clarion Orchestra will explore the works of Johannes Ockeghem in various parts of the Cloisters, including the Romanesque Hall, Cuxa Cloister, Langon Chapel, and Saint Guilhem Cloister. Ockeghem was one of the most influential early Renaissance composers and an important proponent of the Franco-Flemish School. After looking at his earlier and middle period works with smaller ensembles throughout the day, the Clarion singers and players will come together for a final concert of his later works from 7-8pm in the glorious Fuentidueña Chapel.
-
+<b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b>
+<br>
+<br>
 <b>January 2025:</b> Featured soprano in <i>Hosanna!</i> with <b>Hudson Baroque</b>
 <br>
 <br>
