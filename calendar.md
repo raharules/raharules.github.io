@@ -12,8 +12,17 @@ Photo by Nuna Ulises
 NEXT UP:
 <br>
 <br>
-<b>November 5-9:</b> Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
-by Sarah Kirkland Sneider at <b>LA Opera</b>
+<b>February 14-15:</b> Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i>
+with <b>Academy of Sacred Drama</b>
+<br>
+<br>
+<b>March:</b> Tour of Handel's <i>Hercules</i> with <b>The English Concert</b> and <b>Clarion</b>
+<br>
+<br>
+<b>April:</b> <i>Divas & Strings</i> with <b>Musimelange</b> in Miami, Florida
+<br>
+<br>
+<b>June 7:</b> <i>"Who Taught my Grief to thee?"</i> a voice-piano recital with <i><a href="https://www.andrewlesliecooper.com/">Andrew Leslie Cooper</a></i>
 <br>
 <br>
 Recent engagements:
@@ -162,10 +171,19 @@ Over a period of five hours, the different instrumental and vocal consorts from 
 <b>March 2025:</b> Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
 <br>
 <br>
-<b>April 2025:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
-<br>
-<br>
 <b>April/May 2025:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/4wEbXnwlaMo?si=CAQd-PcvvcPtxMAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <br>
+<b>April 2025:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
+<br>
+<br>
+<br><b>November 2025:</b> Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
+by Sarah Kirkland Sneider at <b>LA Opera</b>
+<br>
+<br>
+<b>January 2026:</b> Angel in the New York premiere of <i><a href="https://www.prototypefestival.org/shows/hildegard">HILDEGARD</a></i><br>
+by Sarah Kirkland Sneider at <b>Prototype Festival</b>
+<br>
+<br>
+
