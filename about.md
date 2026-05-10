@@ -25,6 +25,6 @@ Raha’s frequent engagements with new works include her Opera Philadelphia debu
 A devotee of sacred music, Raha was a soloist on The Clarion Choir’s GRAMMY-nominated recording of Rachmaninoff’s <i>All-Night Vigil</i>. She was also a standout soloist in Clarion’s 2024 Ockeghem Marathon at The Met Cloisters and their performance of Bach’s <i>St. John Passion</i> in 2025.
 <br>
 <br>
-Raha is the founder of <a href="https://www.hudsonbaroque.com">Hudson Baroque</a>, a non-profit organization that provides soul-nourishing and accessible concerts for all members of the regional community. In collaboration with award-winning, internationally acclaimed instrumentalists and some of America’s finest early music singers, Hudson Baroque is where passion, virtuosity, and historically informed performance practice foster a culture of excellence and goodwill.
+Raha is the founder of <a href="https://www.hudsonbaroque.com">Hudson Baroque</a>, a 501 (c)(3) non-profit organization that provides soul-nourishing and accessible concerts for all members of the regional community. In collaboration with award-winning, internationally acclaimed instrumentalists and some of America’s finest early music singers, Hudson Baroque is where passion, virtuosity, and historically informed performance practice foster a culture of excellence and goodwill.
 <br>
 <br>
