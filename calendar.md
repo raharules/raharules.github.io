@@ -16,7 +16,7 @@ NEXT UP:
 <br>
 <br>
 <b>December 31:</b><br>
-Gawain and the Green Knigh<br>
+Gawain and the Green Knight<br>
 <i>A Medieval New Year's Legend</i><br>
 by Doug Balliett<br>
 Raha reprises the role of Guinevere<br>
