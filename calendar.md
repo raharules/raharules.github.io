@@ -133,7 +133,7 @@ April/May 2025: House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ru
 April 2025: Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
 <br>
 <br>
-August 2025: <i></i>A Voice from Heaven</i> with <b></b>Hudson Baroque</b>
+August 2025: <i>A Voice from Heaven</i> with <b>Hudson Baroque</b>
 <br>
 <br>
 November 2025: Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
@@ -155,4 +155,4 @@ April 2026: <i>Divas & Strings</i> with <b>Musimelange</b> in Miami, Florida
 <br>
 <br>
 July 2026: <i>How Can I Keep From Singing?</i><br>
-Guest Artist / Soloist with <b></b>Civic Chorale of Greater Miami</b>
+Guest Artist / Soloist with Civic Chorale of Greater Miami
