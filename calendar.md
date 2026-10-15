@@ -12,17 +12,19 @@ Photo by Nuna Ulises
 NEXT UP:
 <br>
 <br>
-<b>February 14-15:</b> Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i><br>
-with <b>Academy of Sacred Drama</b>
+<b>October 15-18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
 <br>
 <br>
-<b>March:</b> Tour of Handel's <i>Hercules</i><br> with <b>The English Concert</b> and <b>Clarion</b>
+<b>December 31:</b><br>
+Gawain and the Green Knigh<br>
+<i>A Medieval New Year's Legend</i><br>
+by Doug Balliett<br>
+Raha reprises the role of Guinevere<br>
+New York City
 <br>
 <br>
-<b>April:</b> <i>Divas & Strings</i> with <b>Musimelange</b> in Miami, Florida
-<br>
-<br>
-<b>June 7:</b> <i>"Who Taught my Grief to thee?"</i> a voice-piano recital<br> with <a href="https://www.andrewlesliecooper.com/">Andrew Leslie Cooper</a>
+<b>March 13, 2027:</b> Sprezzatura<br>
+<i>Virtuoso Cello Music of the Early Italian Baroque</i> with Ars Antiqua
 <br>
 <br>
 Recent engagements:
@@ -73,7 +75,7 @@ St. Mary's Grand Street, NYC
 <br>
 31 December 2023<br>
 <b>Gawain and the Green Knight</b><br>
-A Medieval New Year's Legend<br>
+<i></i>A Medieval New Year's Legend</i><br>
 by Doug Balliett<br>
 Raha reprises the role of Guinevere<br>
 New York City
@@ -102,37 +104,56 @@ Clarion
 <br>
 <br>
 12 June 2024<br>
-<b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b>
+<b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b
 <br>
 <br>
-<b>January 2025:</b> Featured soprano in <i>Hosanna!</i> with <b>Hudson Baroque</b>
+December 31, 2024:<br>
+<b>Gawain and the Green Knight</b><br>
+<i>A Medieval New Year's Legend</i><br>
+by Doug Balliett<br>
+Raha reprises the role of Guinevere<br>
+New York City
 <br>
 <br>
-<b>February 2025:</b> French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
+January 2025: Featured soprano in <i>Hosanna!</i> with <b>Hudson Baroque</b>
 <br>
 <br>
-<b>March 2025:</b> Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
+February 2025: French Ministry of Culture’s Odysée artist-in-residency program, with <b>Theotokos</b>, hosted by William Christie and <b>Les Arts Florissants</b>
 <br>
 <br>
-<b>March 2025:</b> Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
+March 2025: Soloist in New York Premiere of Doug Balliett's <i>St. Mark Passion</i>
 <br>
 <br>
-<b>April/May 2025:</b> House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
+March 2025: Soloist in <i>Messiah</i> with <b>Hudson Baroque</b>
+<br>
+<br>
+April/May 2025: House and role debut as Sesto in <i>Giulio Cesare</i> with <b>Ruckus</b> at Hudson Hall, directed by R.B. Schlather
 <iframe width="100%" height="236" src="https://www.youtube.com/embed/4wEbXnwlaMo?si=CAQd-PcvvcPtxMAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <br>
-<b>April 2025:</b> Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
+April 2025: Soloist in Bach's <i>St. John Passion</i> with <b>Clarion</b>
 <br>
 <br>
-<b>August 2025</b> <i></i>A Voice from Heaven</i> with <b></b>Hudson Baroque</b>
+August 2025: <i></i>A Voice from Heaven</i> with <b></b>Hudson Baroque</b>
 <br>
 <br>
-<br><b>November 2025:</b> Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
+November 2025: Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
 by Sarah Kirkland Sneider at <b>LA Opera</b>
 <br>
 <br>
-<b>January 2026:</b> Angel in the New York premiere of <i><a href="https://www.prototypefestival.org/shows/hildegard">HILDEGARD</a></i><br>
+January 2026: Angel in the New York premiere of <i><a href="https://www.prototypefestival.org/shows/hildegard">HILDEGARD</a></i><br>
 by Sarah Kirkland Sneider at <b>Prototype Festival</b>
 <br>
 <br>
-
+February 14-15, 2026: Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i><br>
+with <b>Academy of Sacred Drama</b>
+<br>
+<br>
+March 2026: Tour of Handel's <i>Hercules</i><br> with <b>The English Concert</b> and <b>Clarion</b>
+<br>
+<br>
+April 2026: <i>Divas & Strings</i> with <b>Musimelange</b> in Miami, Florida
+<br>
+<br>
+July 2026: <i>How Can I Keep From Singing?</i><br>
+Guest Artist / Soloist with <b></b>Civic Chorale of Greater Miami</b>
