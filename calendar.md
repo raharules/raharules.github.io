@@ -15,8 +15,7 @@ NEXT UP:
 <b>October 15-18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
 <br>
 <br>
-<b>December 31:</b><br>
-Gawain and the Green Knight<br>
+<b>December 31:</b> Gawain and the Green Knight<br>
 <i>A Medieval New Year's Legend</i><br>
 by Doug Balliett<br>
 Raha reprises the role of Guinevere<br>
