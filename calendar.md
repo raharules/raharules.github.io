@@ -26,7 +26,7 @@ New York City
 <i>Virtuoso Cello Music of the Early Italian Baroque</i> with Ars Antiqua
 <br>
 <br>
-Recent engagements:
+PAST ENGAGEMENTS:
 <br>
 <br>
 29 May, 1, 3 & 6 June 2022<br>
@@ -89,7 +89,7 @@ Oktaven Studios
 <b>Les chevelures voice-piano recital</b><br>
 Raha Mirzadegan, soprano<br>
 Sarah Young, piano<br>
-Stone Ridge, New York<br>
+Stone Ridge, New York
 <br>
 <br>
 28 March 2024<br>
