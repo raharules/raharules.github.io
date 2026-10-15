@@ -74,7 +74,7 @@ St. Mary's Grand Street, NYC
 <br>
 31 December 2023<br>
 <b>Gawain and the Green Knight</b><br>
-<i></i>A Medieval New Year's Legend</i><br>
+<i>A Medieval New Year's Legend</i><br>
 by Doug Balliett<br>
 Raha reprises the role of Guinevere<br>
 New York City
@@ -103,7 +103,7 @@ Clarion
 <br>
 <br>
 12 June 2024<br>
-<b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b
+<b>OCKEGHEM MARATHON AT THE MET CLOISTERS</b>
 <br>
 <br>
 December 31, 2024:<br>
