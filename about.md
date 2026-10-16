@@ -26,5 +26,3 @@ A devotee of sacred music, Raha was a soloist on The Clarion Choir’s GRAMMY-no
 <br>
 <br>
 Raha is the founder of <a href="https://www.hudsonbaroque.com">Hudson Baroque</a>, a 501(c)(3) non-profit organization that provides soul-nourishing and accessible concerts for all members of the regional community. In collaboration with award-winning, internationally acclaimed instrumentalists and some of America’s finest early music singers, Hudson Baroque is where passion, virtuosity, and historically informed performance practice foster a culture of excellence and goodwill. In 2025-26, the ensemble produced a historical replication of Handel’s final performance of <i>Messiah</i>, under the direction of Owen Burdick, <i>A Voice from Heaven</i>, a program of sacred a cappella music curated in collaboration with Andrew Leslie Cooper, and <i>A Venetian Feast</i>, a concert commemorating the 300th anniversary of the publication of Vivaldi’s The Four Seasons, curated and led by concertmaster, Simone Pirri.
-<br>
-<br>
