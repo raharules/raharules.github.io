@@ -137,11 +137,11 @@ August 2025: <i>A Voice from Heaven</i> with <b>Hudson Baroque</b>
 <br>
 <br>
 November 2025: Angel in the world premiere of <i><a href="https://www.laopera.org/performances/2026/hildegard">HILDEGARD</a></i><br>
-by Sarah Kirkland Sneider at <b>LA Opera</b>
+by Sarah Kirkland Snider at <b>LA Opera</b>
 <br>
 <br>
 January 2026: Angel in the New York premiere of <i><a href="https://www.prototypefestival.org/shows/hildegard">HILDEGARD</a></i><br>
-by Sarah Kirkland Sneider at <b>Prototype Festival</b>
+by Sarah Kirkland Snider at <b>Prototype Festival</b>
 <br>
 <br>
 February 14–15, 2026: Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i><br>
