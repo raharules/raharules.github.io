@@ -12,7 +12,7 @@ Photo by Nuna Ulises
 NEXT UP:
 <br>
 <br>
-<b>October 15-18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
+<b>October 15–18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
 <br>
 <br>
 <b>December 31:</b> Gawain and the Green Knight<br>
@@ -48,7 +48,7 @@ Opera Philadelphia Premiere<br>
 Part of Festival O23
 <br>
 <br>
-26-30 October 2023<br>
+26–30 October 2023<br>
 <b>DRIFT: An Opera in Three Acts</b><br>
 New Opera Workshop @ Opera America
 <br>
@@ -80,7 +80,7 @@ Raha reprises the role of Guinevere<br>
 New York City
 <br>
 <br>
-1-4 January 2024<br>
+1–4 January 2024<br>
 <b>Gawain and the Green Knight studio recording</b><br>
 Oktaven Studios
 <br>
@@ -144,7 +144,7 @@ January 2026: Angel in the New York premiere of <i><a href="https://www.prototyp
 by Sarah Kirkland Sneider at <b>Prototype Festival</b>
 <br>
 <br>
-February 14-15, 2026: Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i><br>
+February 14–15, 2026: Teodosia in Scarlatti's <i><a href="https://sacreddrama.org/event/teodosia-ns/">Il martirio di Santa Teodosia</a></i><br>
 with <b>Academy of Sacred Drama</b>
 <br>
 <br>
