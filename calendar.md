@@ -15,10 +15,14 @@ NEXT UP:
 <b>October 15–18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
 <br>
 <br>
+<b>October 29-30:</b> Assistant Producer for the debut recording of <a href="https://www.hollywoodphil.org">Hollywood Philharmonic</a> at FOX
+<br>
+<br>
 <b>December 6:</b> COR NOVUM with Hudson Baroque
 <br>
 <br>
-<b>December 22:</b> Dowland | Life and Works (Audio/Film)
+<b>December 22:</b> Dowland | Life and Works
+<br>Audio/Film
 <br>New York City
 <br>
 <br>
