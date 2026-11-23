@@ -19,7 +19,7 @@ NEXT UP:
 <br>
 <br>
 <b>December 22:</b> Dowland | Life and Works (Audio/Film)
-New York City
+<br>New York City
 <br>
 <br>
 <b>December 31:</b> Gawain and the Green Knight<br>
