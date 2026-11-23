@@ -18,7 +18,8 @@ NEXT UP:
 <b>December 6:</b> COR NOVUM with Hudson Baroque
 <br>
 <br>
-<b>December 22:</b> Dowland Life and Works Recording project
+<b>December 22:</b> Dowland | Life and Works (Recording project)
+New York City
 <br>
 <br>
 <b>December 31:</b> Gawain and the Green Knight<br>
