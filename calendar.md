@@ -15,10 +15,16 @@ NEXT UP:
 <b>October 15–18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
 <br>
 <br>
+<b>December 6:</b> COR NOVUM with Hudson Baroque
+<br>
+<br>
+<b>December 22:</b> Dowland Life and Works Recording project
+<br>
+<br>
 <b>December 31:</b> Gawain and the Green Knight<br>
 <i>A Medieval New Year's Legend</i><br>
 by Doug Balliett<br>
-Raha reprises the role of Guinevere<br>
+Raha sings the role of Lady Bertilak in this year's production<br>
 New York City
 <br>
 <br>
