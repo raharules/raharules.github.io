@@ -15,7 +15,8 @@ NEXT UP:
 <b>October 15–18:</b> Serenade to Music with <a href="https://www.seraphicfire.org">Seraphic Fire</a>
 <br>
 <br>
-<b>October 29-30:</b> Assistant Producer for the debut recording of <a href="https://www.hollywoodphil.org">Hollywood Philharmonic</a> at FOX
+<b>October 29–30:</b> Assistant Producer
+<br><a href="https://www.hollywoodphil.org">Hollywood Philharmonic</a> debut recording at FOX
 <br>
 <br>
 <b>December 6:</b> COR NOVUM with Hudson Baroque
