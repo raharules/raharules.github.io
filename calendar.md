@@ -18,7 +18,7 @@ NEXT UP:
 <b>December 6:</b> COR NOVUM with Hudson Baroque
 <br>
 <br>
-<b>December 22:</b> Dowland | Life and Works (Record/Film)
+<b>December 22:</b> Dowland | Life and Works (Audio/Film)
 New York City
 <br>
 <br>
